@@ -1,10 +1,7 @@
 package uestc.articlewebserver;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 import nlplib.commonclasses.Article;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,16 +31,22 @@ public class ArticleWebserverController {
 
     @RequestMapping("/listCorpus")
     public Set<String> listCorpus() {
+        System.out.println("@RequestMapping(\"/listCorpus\")");
         return corpusManager.getCorpusMap().keySet();
     }
 
     @RequestMapping("/getCorpus")
     public List<Article> getCorpus(@RequestParam("corpus") String corpus) {
-        return corpusManager.getCorpusMap().get(corpus).getArticles();
+        System.out.println("@RequestMapping(\"/getCorpus\")");
+        if (corpusManager.getCorpusMap().get(corpus) != null) {
+            return corpusManager.getCorpusMap().get(corpus).getArticles();
+        }
+        return new ArrayList<Article>();
     }
 
     @RequestMapping("/test")
     public String test() {
+        System.out.println("@RequestMapping(\"/test\")");
         return "什么鬼...";
     }
 
