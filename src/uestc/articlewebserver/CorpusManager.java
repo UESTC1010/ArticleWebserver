@@ -6,8 +6,8 @@
 package uestc.articlewebserver;
 
 import java.io.File;
-import java.util.HashMap;
 import java.util.Map;
+import java.util.TreeMap;
 import nlpevaluation.corpus.CategorizedCorpus;
 import nlpevaluation.corpus.Corpus;
 import nlpevaluation.corpus.CorpusType;
@@ -27,7 +27,7 @@ import nlpevaluation.corpus.SentimentCorpus;
 public class CorpusManager {
 
     private String corpusRoot;
-    private Map<String, Corpus> corpusMap = new HashMap<>();
+    private Map<String, Corpus> corpusMap = new TreeMap<>();
 
     public CorpusManager() {
         corpusRoot = Properties.getProperties().getProperty("corpusRoot");
