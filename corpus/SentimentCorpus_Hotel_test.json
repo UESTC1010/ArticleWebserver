@@ -1,0 +1,1010 @@
+{
+  "sentenceCount": 0,
+  "opinionedSentence": 0,
+  "opinionedArticle": 100,
+  "positiveOpinion": 60,
+  "negtiveOpinion": 40,
+  "articlesCount": 100,
+  "articles": [
+    {
+      "title": "pos.5083",
+      "fileName": "pos.5083.txt",
+      "sentenceList": [],
+      "content": "房间空间还好满宽敞的,但是朝南面挨着马路比较吵,房间的隔音效果只能说一般.硬件设施上特别是卫生间感觉欠档次地上有从淋浴房渗露出水来,毛巾\\浴斤之类明显是比较旧了,建议更换.大厅、餐厅服务员的态度比较好，给我印象很深刻的是刚入住的时候电视机不会搞随便走廊上叫了个服务员帮我弄，服务员很热情帮我调好频道，服务员始终脸上挂满笑容让我很满意！退房的时候大厅前台居然要多收我钱，我坚持按网上预定价格付，最后还是按网上价格付，我不知道她是怎么算的，本想投诉的，但她后来也没多收我钱也就算了。结论：这个价格能够得到这种服务，基本上也知足了，还不错，下次在住！",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.931",
+      "fileName": "pos.931.txt",
+      "sentenceList": [],
+      "content": "这家酒店性价比还是很高的，入住的是行政楼层单人间，给客户订的是行政楼层双人间，酒店内硬件设施很好，免费宽带上网，早餐丰盛，而且酒店更准备了免费的行政楼层下午茶和晚间鸡尾酒，虽然由于时间紧没有享用到，但给人感觉非常好。员工也很热情，服务也好。\n酒店距离地铁也很近，而且和一家商场紧邻，购物也很方便。\n唯一的缺点是我办理入住手续时，大堂办理速度比较慢，我排了将近30分钟队后被告知是行政楼层房间可以到行政楼层接待处直接办理入住手续。哎，如果能够在酒店里有直接说明就不用排这么久了。很辛苦啊~\n综合评价，我还是比较满意，尤其能令客户满意我也很有面子。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.4650",
+      "fileName": "pos.4650.txt",
+      "sentenceList": [],
+      "content": "我是第二次住在这里了，前一次是二年多之前了，\n因为它离家很近，也是因为喜欢它．所以再次选择了它．\n房间比较大，订的是大床房，很宽，基本等于二张小床放在一起了．\n我们一家三口睡得很宽敞．很舒服．\n房间洗手间也感觉很舒服，很大，有浴缸，有花洒，也很干净．\n员工的服务还不错，有宾至如归的感觉．\n由于前面网友的介绍，特意要求了楼层高的房间，安排在八楼，晚上很安静．\n早餐由于是过年，要与家人一起用，因此送的早餐（可惜只送一份）就浪费了．\n很喜欢这里，虽然感觉贵一点点，但还是很舒服．还会继续选它．",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2637",
+      "fileName": "pos.2637.txt",
+      "sentenceList": [],
+      "content": "性价比非常好的酒店，房间设施超好，卫生间分了3个部分，淋浴房，卫生间，化妆间，非常干净，装修很有欧式风格，就是枕头不太舒服，一个太低，两个太高。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.674",
+      "fileName": "pos.674.txt",
+      "sentenceList": [],
+      "content": "拿房时没大床房了，给我们免费升成套房，这点还蛮满意的。酒店大致不错，有国内五星水准。比国际品牌的要差一点。酒店有点年纪了，维修要加强，比如我们浴室的下水就堵塞不通，这些在客人入住前就该发觉修好。其它都还可以。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2212",
+      "fileName": "neg.2212.txt",
+      "sentenceList": [],
+      "content": "住了2天，受不了，好像地毯很不干净，床也不干净。后来搬到圣地（比香港酒店还新点），也就凑合吧。反正在济宁也别指望有什么酒店了，最后一天终于受不了，半夜赶到济南住CROWNE PLAZA了。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.5920",
+      "fileName": "pos.5920.txt",
+      "sentenceList": [],
+      "content": "位置比较好，到机场火车站都很方便。豪华单人间里的布置合理有序，独具匠心。值得一提的是门口迎宾员特别热情，帮我提箱子一直到办完入住还送我上了电梯。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.5782",
+      "fileName": "pos.5782.txt",
+      "sentenceList": [],
+      "content": "这次是第二次住了，感觉属于干净、卫生、简单、便宜的那种。2年过去有了简单的“升级”，呵呵。就是卫生间改用马桶了~",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.313",
+      "fileName": "neg.313.txt",
+      "sentenceList": [],
+      "content": "客观地说，这是我住过的同档次宾馆中很差劲的一家，无论是总体环境还是房间设施的确如一位评友所言“够烂”。不想多说了，以后不去这是了！\n补充点评 2008年5月31日 ： 刚才忘了一件事是不吐不快啊，就是这个宾馆前台做服务的大小姐们，我去办入住手续时，就好象欠她的多而还她的少似的，那个爱搭不理的模样，差点没逼得我去找她们的上司！",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.103",
+      "fileName": "neg.103.txt",
+      "sentenceList": [],
+      "content": "瀹㈣璇达紝涓嶆�庝箞鏍风殑閰掑簵銆傛垜鏄�1鏈�11鏃ヤ綇鐨勶紝澶╂皵鐗瑰埆鍐凤紝鎴块棿绌鸿皟鏍规湰灏变笉绠＄敤锛屾垜鍦ㄦ埧闂村緟浜�4涓皬鏃舵墜鑴氬啺鍑夛紝鏈�鍚庢病鏈夊姙娉曟墦鐢佃瘽鎶曡瘔锛岀粰鎴戝姞浜嗕釜鐢垫殩姘旓紝鏁堟灉娌″彉鍖栥��\n鏈�姘旀劋鐨勬槸锛屾垜娌″惉璇磋繃鍝釜閰掑簵瑕佸彉鏇存垨鑰呭彇娑堬紝蹇呴』鍦�15锛�00鍓嶈仈绯伙紝涓嶈仈绯诲氨浠庝綘淇＄敤鍗￠噷鎵ｉ挶銆傛垜璁簡2闂存埧锛�3涓棭椁愶紝鐢变簬闈掑矝澶╂皵鐨勫師鍥狅紝鎴戠殑鏈嬪弸娌″幓鎴愶紝鎴戝湪涓嬪崍4鐐瑰崐鍙栨秷浜嗕竴涓埧闂村拰2涓棭椁愶紝浣嗘槸缁撳笎鏃跺嵈鏀舵垜2浠芥棭椁愰挶銆傛垜宸茬粡鍦ㄤ笅鍗堥�氱煡鎼虹▼浜嗭紝鎼虹▼涔熺瓟澶嶆垜閫氱煡閰掑簵浜嗐�傚彲閰掑簵鍓嶅彴灏辨槸涓嶆壙璁ゆ敹鍒伴�氱煡锛屾垜涓嶅湪涔庨偅60鍏冿紝鏄寰楁�佸害鐪熺殑涓嶈兘鐞嗚В銆�\n浣嗘槸閰掑簵鍙告満鐨勬�佸害寰堝ソ锛屾垜鎰熻阿閰掑簵鐨勫徃鏈哄笀鍌呭拰绀煎閮ㄧ殑浜恒��\n鍙嶆浠ュ悗涓嶄細鍦ㄤ綇杩欓噷浜嗭紝闈掑矝鏈夊ソ澶氬ソ閰掑簵锛屾垜鑷繁涔熼仐鎲句负浠�涔堥�夋嫨杩欓噷銆傚湴鐞嗕綅缃篃涓嶅ソ锛岀娴蜂篃杩滐紝灏辨槸鍘昏秴甯傝繎鐐广��",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6235",
+      "fileName": "pos.6235.txt",
+      "sentenceList": [],
+      "content": "这样的硬件,这样的价钱,在香港是绝对超值的.保持了喜达屋的一贯高水准.如果去中环的班车免费就更完美了.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2447",
+      "fileName": "pos.2447.txt",
+      "sentenceList": [],
+      "content": "服务做的很好，是最近住的最为满意的酒店。不管是前台还是客房的服务都很满意。在很多细节方面做得很好！楼下有家韩国餐厅也不错，我去的时候因为是第一天开，还送了一道菜给我。送的菜比我点的东西还贵。第一次主动给酒店做点评，因为我觉得好酒店值得大家去住一下！",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2032",
+      "fileName": "neg.2032.txt",
+      "sentenceList": [],
+      "content": "准备带一家人来过年的,订了两天两个套间,就为了图个清净.可是除夕下午患了感冒,晚上房间里的空调根本不热,而且声音奇响.结果第二天只能匆匆提前离开.酒店位置很偏僻,自己没车进去了就出不来,周围好象有些象游乐场的设施,但冬天好象不开放,不知夏天怎么样.",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6300",
+      "fileName": "pos.6300.txt",
+      "sentenceList": [],
+      "content": "　　不错，有小院停车场，清净安全，非周末时间停车空间比较紧。\n　　因为宾馆深处干面胡同中间，胡同不宽，车行单向，所以经过车辆不多，再加上宾馆前有院落，即使入住朝向胡同一侧的房间，也基本没什么机动车的噪音，关上窗户就更加安静。\n　　入住期间，没有接到骚扰电话，这在这一片宾馆，实属罕见。尽管卫生间里放着酒店提供的避孕套，但未发现这里是淫窟的迹象。\n　　房间很大，不错。\n　　缺点只有三个：一是楼道和房间的地毯都有点脏；二是单人床太窄太短；三是隔壁声音特大时，此屋可听见。\n　　总得来说，比较满意。\n补充点评 2007年6月10日 ： 结帐速度很快",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.738",
+      "fileName": "pos.738.txt",
+      "sentenceList": [],
+      "content": "閰掑簵鐨勭幆澧冮潪甯稿ソ,浣嗘槸鎴块棿瑁呬慨涓�鑸�,姣旇緝鏃�.鏈嶅姟涔熶笉閿�,鏈�24灏忔椂閫侀鏈嶅姟.铏界劧璁炬柦闄堟棫,涓嬫杩樹細閫夋嫨杩欓噷,鍥犱负閰掑簵鐨勭幆澧冨惛寮曟垜\n纰板阀鏄鑺卞紑鑺卞鑺�,闈炲父澶х殑妗冨洯,寮�寰楀緢鐏跨儌鐨勬鑺�!鍊煎緱!",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2109",
+      "fileName": "neg.2109.txt",
+      "sentenceList": [],
+      "content": "之前和你们电话反映了，2个问题。1，不接受携程客户用信用卡。你们和酒店负责人确认后，给我的回答是pos机坏了，所有卡不能用，其实根本不是：她们亲口跟我说了多次，因为携程预定的所以不能用，退房结帐时，亲眼看见别人用卡支付。而且，在我退房时，又有新来的2人由于携程预定被拒绝用卡预授权。难道你们宁愿被人骗么，或者和酒店有勾结，不相信你们客户反映的问题？这样，携程会倒闭的。2，结帐时，由于携程客户，不能提供消费明细，发票没有问题。最终临时做了一个给我们。他们解释，由于给携程报帐什么的原因，不能提供。你们之间有什么交易我不管，但不要影响我公司报效要求明细呀。\n不解决这些问题，很难用携程网了。请重视。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.780",
+      "fileName": "pos.780.txt",
+      "sentenceList": [],
+      "content": "我喜歡這家酒店,很多年前住過,後來又住過其他的酒店,感覺還是這家好.覺得它性價比都不錯.尤其勝在周邊環境上,風景美,外出用餐也僅僅步行幾分鐘.還有個小的商業區,有百佳,吉之島等,很方便的.雖然離大的購物區比如海港城,有幾十元的車程,但如果你愿意等,有酒店提供的免費巴士,30分鐘一班到尖沙嘴,也是很方便的.還有,入住那天恰逢我生日,到大堂登記時服務生就對我說了生日快樂,晚上又送來了美味的蛋糕,一支很漂亮的紅玫瑰,還有洋酒.很開心.還有,那天因為我們去得早,11點就讓我們入住了,總之,這次入住,沒有什麽不滿意的地方.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.104",
+      "fileName": "neg.104.txt",
+      "sentenceList": [],
+      "content": "閰掑簵澶棫浜嗭紝 澶у爞鎰熻璞′笁鏄熺骇鐨勶紝 鎴块棿涔熷氨鏄殑濂界偣鐨勪笁鏄熺骇鐨勬潯浠讹紝 鍦ㄩ潚宀涜繖鏍风殑閰掑簵鏄粷瀵圭畻涓嶄笂鍥涙槦鏍囧噯锛� 鏃╅璧颁簡涓ゅ湀涔熸病鏈夋壘鍒板彲浠ュ悆鐨勶紝 澶樊浜�",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.524",
+      "fileName": "neg.524.txt",
+      "sentenceList": [],
+      "content": "说实话，这个酒店比较差，去天津时预先看了下酒店地址，富蓝特就在机场大巴终点站附近，比较近所以选择了它\n可后来太失望了，房间很小不说，还是木阁楼的，吵的不得了（不排除特价房的原因），那时天气还比较凉，浴室洗澡水竟然是冷的，服务员说多要放会水，就这样放了10分钟也没见热多少。听说天津的酒店都不怎么的，我就坚持凑合在这住了两宿，后来去对面的友谊之家看了下朋友，发现那边很不错。在天津的最后一晚，选择了那边，比富蓝特便宜环境又好，房间很大，卫浴设施不错，服务也不错。\n亲身经历，客观评价，希望酒店能改进。。。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.584",
+      "fileName": "pos.584.txt",
+      "sentenceList": [],
+      "content": "浜ら�氬緢渚垮埄锛岀幆澧冨皻鍙�傛彁渚涚殑鏃╅涔熸瘮杈冨ソ锛屽氨鏄棫浜嗕竴鐐广�傛�讳綋涓婅杩樻槸浠や汉婊℃剰鐨勩��",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.43",
+      "fileName": "pos.43.txt",
+      "sentenceList": [],
+      "content": "酒店去开发区比较方便，离市区比较远。酒店的服务和设施都很不错。超级可爱的是卫生间的电控马桶，尽管没有烘干功能，中国人也还可以用其他功能，老外就不敢用了，因为标示均为中文字。一楼的日本餐厅味道一流，赞~~不知为什么生意不怎么样。总体来说，这家酒店非常不错，公司的老外相当满意。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.873",
+      "fileName": "pos.873.txt",
+      "sentenceList": [],
+      "content": "地理位置相当好，离海港城走路只需五分钟，酒店房间灯光明亮，液晶电视够大，感觉很舒服。惟独酒店大堂小了点。下次我还是选择这酒店。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.385",
+      "fileName": "pos.385.txt",
+      "sentenceList": [],
+      "content": "环境还是挺不错的，工作人员也比较热情，晚上保安巡逻发现窗户没关还电话提醒我们，赞一个！早餐略显一般！酒店门口就是峨眉特色小吃！离旅游车站非常近，线路方便！房间设施虽达不到四星的标准，但在景区也还不错了。可以推荐！",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.288",
+      "fileName": "pos.288.txt",
+      "sentenceList": [],
+      "content": "嗯嗯，基本满意，只是对和我同去的老外分到的房间就比我N大有点不爽。\n浴缸的落水坏掉了，只能淋浴。不过来修的倒是挺快，虽然米有完全解决问题，至少还是很积极滴。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1558",
+      "fileName": "neg.1558.txt",
+      "sentenceList": [],
+      "content": "酒店外观相对气派,但房间确实很简陋,设施陈旧,卫生一般,最多就是个90年代未的水平。不过大庆宾馆较少，找了一遍发现也的确再没有什么宾馆了。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2671",
+      "fileName": "neg.2671.txt",
+      "sentenceList": [],
+      "content": "旧楼改建的酒店，期望不要太高。酒店经理的态度很好，会帮助解决问题。有一位前台小姐的态度实在是不敢恭维，可以说恶劣",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1588",
+      "fileName": "neg.1588.txt",
+      "sentenceList": [],
+      "content": "帮朋友预定了2个晚上的房间，第二天早上服务员竟然说没有定2个晚上，要求退房，\n而且态度极其不好，还我朋友担心，跟我电话联系很多次。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.280",
+      "fileName": "neg.280.txt",
+      "sentenceList": [],
+      "content": "浼樼偣;鏈夌數姊�(4灞傚紑灏佸棣嗚繛鐢垫閮芥病鏈�),鏅氫笂濂藉儚娌℃湁灏忓鐢佃瘽楠氭壈(寮�灏佸棣嗛獨鎵板埌鏈�鍚庡共鑴嗗拰鎸夋懇灏忓鐢佃瘽鑱婂ぉ璧锋潵浜�)\n缂虹偣;鎴块棿璞℃嫑寰呮墍,璁惧鑰佸寲,鑳界畻3鏄�?浠锋牸鍋忛珮,鎬т环姣斾笉濂�!闂ㄥ彛涔卞搫鍝勭殑,鎰熻涓嶅ソ!",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2073",
+      "fileName": "pos.2073.txt",
+      "sentenceList": [],
+      "content": "在成都糖酒会期间入住该酒店, 很感动在全城酒店出奇紧张的情况下酒店为我把房间升级成了豪华间,且酒店服务很到位,没有发现楼下朋友说的那些情况.\n房间由于是豪华间,所以感觉很赞,很干净,完全有4 star标准.\n总之,即使是糖酒会期间的488, 也比上海的酒店性价比高太多了.\nPS,酒店出门右边斜对面就是春熙路步行街,交通很方便.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2801",
+      "fileName": "pos.2801.txt",
+      "sentenceList": [],
+      "content": "酒店的大堂不大,看起来不够豪华.但是服务人员都非常的热情.房间比较大,设施一般但是还算干净.第一次入住该酒店,到大堂询问附近的餐厅,大堂副理居然是非常年轻的漂亮小姐,笑容让人很舒心,好意的提醒我们原本想去的得月楼只不过名声在外,不实惠味道也一般,并且热情的介绍了边上的天竺酒楼,去是过以后果然如她所言实惠又好吃.吃完饭过后到附近逛了才发现地理位置非常好,逛街非常方便.顺便提一下,酒店内部有一个沐足的地方,房客用抵用券可以打折扣,按摩的手法非常的专业.第二天走的时候门口没有出租车,行李生冒着大雨出去叫车,还是非常的让人感动的.\n补充点评 2008年1月20日 ： 软件达到五星标准，硬件打个３.５星吧，应该改造了，呵呵．下次还来",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1094",
+      "fileName": "neg.1094.txt",
+      "sentenceList": [],
+      "content": "我希望携程能多去找找性价比高的酒店,我是冲着四星去的,结果房间里是我想象不到脏乱差,首先进去一股很大的烟味象是前面入住的客人刚走没有来得及清洗,第二马桶的水下不去,淋浴的喷头及龙头是坏的,叫服务员换房间,前台却说你自己下来换,不知道整个邢台市还有有别的好酒店,我都服了,下次不去住了好在携程的服务还好,价格比前台问的便宜!",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1602",
+      "fileName": "pos.1602.txt",
+      "sentenceList": [],
+      "content": "作为一家五星级的酒店，各项设施陈旧，房间面积显然没有达到五星的标准。酒店check in的速度极慢无比。晚上11点左右到达的，等了15分钟。房价太贵，除了地段的因素比较好，实在达不到五星级的酒店水平。早餐按ctrip的价格还算可以。房间的卫生间不错，水压很大水温舒适，也非常大没有局促感。建议大家可以考虑不远的粤海。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1754",
+      "fileName": "pos.1754.txt",
+      "sentenceList": [],
+      "content": "单人间有一点点小，但基本够用。\n已经有宽带上网了，但网速偏慢。\n南面靠里的房间比较安静，西头北面的晚上会有车辆经过的声音传过来。\n早上6点多有\"按摩\"电话过来，^_^；不想被打扰的话拔掉电话插头吧\n补充点评 2007年7月31日 ： 信用卡都可以用了",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1436",
+      "fileName": "neg.1436.txt",
+      "sentenceList": [],
+      "content": "这个酒店就是因为在国贸边上,所以价格很贵.\n因为离我们公司近,也就算了\n感觉和那种200块左右的酒店差别不大,就是地段,别的没什么好说的\n电梯还不好....",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1224",
+      "fileName": "neg.1224.txt",
+      "sentenceList": [],
+      "content": "房间陈旧，设施简单，尤其是早餐品种极少，但能吃饱。服务人员主动服务意识差，但你主动的话她们倒是比较热情。可能是黄山游客多，酒店生意好，你下次来不来住无所谓。酒店的院落大，停车方便，环境较佳。因他们不是专业酒店，所以要原谅包涵他们。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1206",
+      "fileName": "pos.1206.txt",
+      "sentenceList": [],
+      "content": "服务态度不错,遇到的每一位服务人员都能主动问好,老外很多,这个酒店可能有不同层面的客房,下次咱得换个房间住住。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1412",
+      "fileName": "pos.1412.txt",
+      "sentenceList": [],
+      "content": "比想象的要好。 看来金钥匙联盟还是有一定的质量控制的。房间设施还可以，就是烟味太重。回来睡衣上全是烟味。早餐很一般，可选择的东西少。不过那个巴基斯坦服务生态度倒是很好。就在鸭绿江边上，周边环境到还可以",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2140",
+      "fileName": "pos.2140.txt",
+      "sentenceList": [],
+      "content": "花园环境还好，早餐也不错。晚饭时间车位很紧张，只能停篮球场。\n卫生间设施比较陈旧，洗手盆有裂痕。\n“请带我回家”的红色小卡片上没有印任何地址或地图，奇怪。\n房间里有酒店内部报赠阅，时间早的是第19期，晚的那份却是第2期，有点莫名。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.163",
+      "fileName": "neg.163.txt",
+      "sentenceList": [],
+      "content": "地点在十字路口边上，十分嘈杂，巴士车呼啦啦直到夜里11点。\n房间很小，洗漱用品不全：沐浴液、洗发液和洗手液是三合一的，很不好用。\n服务态度不好。电话查询时总是让你听音乐等待很长时间，然后无故将你电话挂断。多算了我一份早餐。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.4225",
+      "fileName": "pos.4225.txt",
+      "sentenceList": [],
+      "content": "再加一句，好像上网也没有收费。最初是20元钱，但最近几次我入住的时候，直接连上网线就可以使用了。希望能够在洗浴小用品上多加改进。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3915",
+      "fileName": "pos.3915.txt",
+      "sentenceList": [],
+      "content": "房间挺好，但是内部的电视太陈旧，紧靠马路非常吵人，玻璃也不是双层的，但是吃饭很方便，就在背后有一条街都是",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.114",
+      "fileName": "pos.114.txt",
+      "sentenceList": [],
+      "content": "通过携程预定的行政双床房(且提前付清房费)~最后居然给我们父女两人一间大床房~还一再申明没有双床房了~在我的一再要求下~最后虽然还是提供了双床房~但是印象大打折扣~\n补充点评 2008年3月24日 ： 温泉~住店客人是98/位~小鱼池是46~另外收费的~",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.5402",
+      "fileName": "pos.5402.txt",
+      "sentenceList": [],
+      "content": "明星康年整体感觉相当不错。房间宽敞、环境良好，应该是当地最好的酒店吧。虽然只住了1个晚上，以后如果再去遂宁，一定继续预定明星康年。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1361",
+      "fileName": "pos.1361.txt",
+      "sentenceList": [],
+      "content": "酒店位置很方便,离开封第一楼和夜市非常近,酒店早餐10元自助很实惠,服务也不错但房间很大设施却有些旧，尤其卫生间狭小。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.335",
+      "fileName": "neg.335.txt",
+      "sentenceList": [],
+      "content": "5月初入住这家酒店，只可以用2个字形容“糟糕”，是我见过的最差的5星级，晚上1楼的disco舞厅一直会营业到凌晨2：30，声音吵杂，还有重音鼓点让住在18楼的客人也无法入睡，不可想象低楼层的客人们怎么忍受这种5星级的待遇!\n早餐简陋，这个也是我第一次给住过的酒店点评，实在是住得太窝囊了！\n如果有0分得选项，我会毫不犹豫选0分",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.663",
+      "fileName": "neg.663.txt",
+      "sentenceList": [],
+      "content": "闈炲父涓嶆剦蹇殑鍏ヤ綇銆傛湅鍙嬫槸鏅氫笂11锛�30宸﹀彸鍒拌揪鐨勶紝姝ゆ椂鐨勬煖鍙版湇鍔″彧鏈�1浜猴紝杩炴湇鍔＄敓鏁翠釜澶у爞鍙湁3涓汉锛屽洜涓哄勾绾瘮杈冨ぇ锛屾湰鏉ヨ鏉庢兂璁╂湇鍔＄敓甯繖锛屾嫑鎵嬬ず鎰忓悗浠栦滑绔熺劧涓嶇悊鐫苟涓旇窇寮�銆俢heck in鐨勬椂鍊欒繛鍒蜂袱寮犱俊鐢ㄥ崱绔熺劧璇翠俊鐢ㄥ崱涓嶈兘鐢紝寰堣帿鍚嶅叾濡欍�傛埧闂寸殑璁炬柦鏋佸樊锛岀伅鍏夊緢鏆楋紝閰掑簵鐨勪笢瑗块潪甯哥牬鏃э紝鐪熸槸鏈夋崯5鏄熺骇鐨勬爣鍑嗐�傞毦鎬湅鍙嬩細璇磋繖瀹堕厭搴楃殑瀹汉闈炲父灏戯紝閮藉悡璺戞帀浜嗐�傝繕鏄湪绻佸崕鐨勫崡浜矾闄勮繎锛岀湡鏄涪浜恒��",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.411",
+      "fileName": "neg.411.txt",
+      "sentenceList": [],
+      "content": "鏄垜閫氳繃鎼虹▼璁㈠埌鐨勬渶鐑傜殑閰掑簵銆�7鏈�18鏃ュ叆浣忥紝褰撴椂鏄�300鍏�/澶╋紝鎴戠湅鏈�澶氬��80鍏冦��\n1銆佹埧闂村澹佹枒椹筹紱\n2銆佽鏂介檲鏃т笉鍫紱\n3銆佸崼鐢熼棿濂囧皬锛屼笖鐪嬭捣鏉ラ潪甯镐笉骞插噣锛�\n4銆佷环鏍兼槀璐碉紱\n5銆佺珶鐒惰繕瑕佷俊鐢ㄥ崱鎷呬繚锛屼笉鐭ラ亾鏄惡绋嬪彉鎬佽繕鏄厭搴楀彉鎬侊紱\n6銆佸墠鍙版�佸害杩樹笉閿欍��\n鍦ㄧЕ鍙戦厭搴楃殑鍖楅潰灏辨湁鎶ヤ笟鍟嗗姟閰掑簵锛屼环鏍煎叕閬擄紝璁炬柦骞插噣銆傚啀寰�鍖楄繕鏈夋捣宀冲晢鍔￠厭搴楋紝鍙儨鏄柊瑁呬慨杩囩殑锛屽懗閬撳お澶т簡銆�",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.5625",
+      "fileName": "pos.5625.txt",
+      "sentenceList": [],
+      "content": "已经是第二次入住了，是一家性价比很高的酒店。很干净也很安静。唯一美中不足的是地理位置太偏了，周围没有商业区，不是很方便。我住时正赶上株洲下大雪，在酒店的位置很难打到出租。如果只在电力机车厂附近办事还是不错的选择。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.426",
+      "fileName": "pos.426.txt",
+      "sentenceList": [],
+      "content": "鍦ㄨ繖閲屼綇浜嗗崐涓湀浜嗭紝鎴戜滑涓�琛屽叡浣忎簡5涓埧闂达紝鏈夎豹鍗庡鎴垮拰璞崕鏍囧噯鎴匡紝鎰熻閰掑簵鐨勬湇鍔′笉閿欙紝閰掑簵鎵�鏈夌殑浜虹殑鎬佸害閮藉緢濂斤紒璞崕濂楁埧鑳界湅鍒版睙锛屾暣涓暱姹燂紝鏈�濂借兘棰勫畾灏炬暟鏄�18鐨勫鎴裤�傞厭搴楃殑鏃╅涓�鑸綖锛屾垜鍦ㄤ節姹熺浜嗚嚜琛岃溅锛屽瓨鍦ㄩ厭搴楋紝缁忕悊瀵规鏍煎鐓ч【锛屽氨鏄寰椾环鏍煎湪涔濇睙娌℃湁浠�涔堜紭鍔匡紝铏界劧鎸�4鏄燂紝鍏跺疄璁炬柦涓嶅埌4鏄熴�傞厭搴楃殑鍋ヨ韩鎴垮熀鏈笂灏辨槸鎽嗚锛岃�屼笖杩樻敹璐癸綖銆傛病鏈夋墦鎵扮數璇濄�傜┖璋冨埌鏅氫笂涓嶅ソ锛岀粡甯哥儹閱掔殑锛佽繙娲蹭篃杩欐牱鐨勶紒\n瀹鹃鍙嶉 2008骞�4鏈�17鏃� 锛� 鎮ㄥ閰掑簵鎸轰簡瑙ｇ殑锛岄潪甯告劅璋㈡敮鎸侊紒",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.606",
+      "fileName": "neg.606.txt",
+      "sentenceList": [],
+      "content": "閰掑簵闄や簡鍦扮悊浣嶇疆闈犺繎鐏溅绔�(50绫�)浠ュ,娌℃湁浠讳綍鍙湀鍙偣涔嬪浜�,鎴块棿杩樼畻骞插噣,浣嗘槸璁惧鍜岄潰绉兘涓嶆槸寰堢鍚堟�т环姣�, 鍗敓闂寸殑椹《杩樻湁鏃跺牭濉�; 鎴胯垂閲屽寘鍚殑鑷姪鏃╅鏇存槸宸�, 杩樻病鍒版棭椁愮粨鏉熸椂闂�,鎵�鏈夌殑鐩樺瓙灏遍兘绌轰簡, 鍙墿涓嬪捀鑿滃拰鐗涘ザ浜�...涓嬫涓嶄細鍐嶄綇浜�.",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1824",
+      "fileName": "neg.1824.txt",
+      "sentenceList": [],
+      "content": "31号服务员成心坑人！！\n我们12点回宾馆准备吃饭后收拾结帐，31号服务员问我们什么时候离开，我们说马上。按照惯例，服务员没有提醒我们超时收费，我们就以为不收费。于是我们不慌不忙地吃饭、收拾……等我们两点结帐的时候，竟然活生生多收半天！！不告知，不提醒，收费也不言语，直接开好发票从押金里头就扣了。这不是成心坑人是什么？？？\n更可笑的是，我们住的501是个套间，我们刚进去的时候没有找到电视机的遥控器，就电话给前台，前台派一个大妈来给看看。大妈进门溜达了一圈，冒出一句：“好像501就是没有遥控器”。之后，我们在电视机上找到了遥控器。这样的服务员、这样的服务，真是给敦煌摸黑啊！！\n早餐也特离谱，8点，粥就是凉的……唉，这家宾馆，去不得！！",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1958",
+      "fileName": "neg.1958.txt",
+      "sentenceList": [],
+      "content": "以前在这里住过感觉还不错，但是这次很差劲，以后不住在这里了。\n1、天黑以后到的宾馆，出了电梯以后，楼道黑黑的，都看不清楚；\n2、订的“豪华数码间”，但是进去以后没有找到网线，随后打电话问客房服务，被告知需要用猫，于是去找。等了大约1个半小时才拿来……第二天，又被服务员借去用了半个小时；\n3、结算时，楼层服务员硬说是我消费了两个“和其正”，磨了近十分钟才搞清楚，他们连自己房间配了几个都不知道！\n4、晚上用餐是在房间里面，因为前台押金用的现金，所以身上的现金不够支付餐费了。于是和服务员商量在房间押金里面扣，或者第二天早晨出去回来以后给支付，但是被拒绝，只好又专门出去取现，这个宾馆位置又不好，没有建行，打车来回又花去十元……\n总评：房间一般，服务很差，服务员业务素质很差！",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.430",
+      "fileName": "pos.430.txt",
+      "sentenceList": [],
+      "content": "鏈潵棰勫畾鏅�氭爣闂达紝鍒板墠鍙版墠鐭ラ亾娌℃湁鎴块棿浜嗭紝鏁呮鍗囩骇鍒版惡绋嬩笂娌℃湁鐨勮豹鍗庡ぇ搴婃埧锛屾埧闂翠笉澶т絾寰堝共鍑�锛屾垜寰堟弧鎰忋�傞厭搴楁枩瀵归潰鏄涓撳崠淇勭綏鏂晢鍝佺殑鍟嗗簵锛屽欢璺竴鐩磋蛋娌″嚑姝ュ氨鍙互鍒版睙杈癸紝鏅壊杩樹笉閿欙紝濡傛灉涓嬫鍑哄樊杩樹細浣忚繖閲屻��",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2066",
+      "fileName": "pos.2066.txt",
+      "sentenceList": [],
+      "content": "第一次入住这里，觉得整体上像是住在花园里面。不过感觉苏州的整体风格也是如此。免费升级到了一个稍大的房间。很干净。260包括一个早餐的确是不贵。就是早餐的种类少了点，不过这个价位也就不挑什么了。\n觉得美中不足的就是宾馆居然没有免费的矿泉水送。。。\n补充点评 2008年8月3日 ： 在这里补充说明一下，260包括一份早餐是房费232+早餐28。提前5天不能取消订单不能修改订单才有232这个价位。现在好像Ctrip没有了。。。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1231",
+      "fileName": "pos.1231.txt",
+      "sentenceList": [],
+      "content": "房间很干净，打开窗口就能看见三塔，嘿嘿，连门票都省了。出门开车五分钟就能到沧海高尔夫，实在方便。\n美中不足，出门的时候朋友把手机丢在了床上（非常确定一定以及肯定），离开大理半小时想起来，连忙打电话过去，没想到手机被人挂掉了，再打就关机了。打电话到酒店，总台和服务员分别肯定地告诉我没看见，哎，只好自认倒霉喽。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3854",
+      "fileName": "pos.3854.txt",
+      "sentenceList": [],
+      "content": "房间设施很不错，可是不知道为什么，房间内只有一个可以用的插座。比如，我用电脑的话，就不能给手机充电，很奇怪。你一定要和服务员拿排插才可以。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1743",
+      "fileName": "neg.1743.txt",
+      "sentenceList": [],
+      "content": "在北京住过不下10多家酒店，也喜欢住公寓，从凯宾斯基到建国饭店，从京广到美华再到星城亮马，而这个是我住过的有史以来最差的一个酒店公寓。难怪价格不上不下，不是因为临时有事绝对不住，希望这里那么多好评语不是枪手\n1、入口难找到要死不说，大堂感觉就是某个买小商品的商铺，check in 竟然要压证件，没有听说过，坚决不同意拿了我的证件去复印。私人住宿和旅客混杂，拖着箱子看着买菜回来的人一同电梯很奇怪。\n2、半夜接到骚扰电话\n3、房间设计装饰非常的“家常“，设施陈旧，非常像当年在江南古镇租住的农家房\n3、住的房间刚好在过道口，声音那叫一个大阿，谁说的房间隔音？楼上住户的动静镇清楚啊\n4、服务态度不好，和客人顶着说，铁板一样的语气。\n5， 实在要找一优点出来的话：唯一就是小区里面比较安静，没有汽车闹声。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2186",
+      "fileName": "neg.2186.txt",
+      "sentenceList": [],
+      "content": "看了上个朋友的帖子，订的这个酒店，但是情况有的地方却不一样，对比如下：\n原来定的是标间，没有了，免费升的豪华标准间，房间不错。就是楼下的汽车噪音很大，感觉兰州人素质还不行，没事按喇叭，早晨很吵。更可气的是，早上7点，对面单位的大喇叭开始广播，非常吵。\n门口几个服务生的服务一般，好像他们的任务就是站在那儿。酒店的位置很偏，出租很难叫，一般要等10分钟，我拿着大包站在那儿，从来没人帮我打车啊。\n服务很差，入住时明明说好住两天，还押了1000押金，第二天中午回来，门打不开，找客房中心，不理，告知必须到前台处理。我很生气，跑到前台，质问前台，为什么这样，前台的小姐白眼一翻，根本不理。刷卡，往我面前一扔。我问，早餐券呢？答曰：下午四点送到房间。我说，入住时间你们都搞错了，早餐券怎么能保证呢？答曰：我说的，肯定可以。把我气的够呛，回房间投诉，给我转到商务中心，真不明白商务中心还有这功能呢。一通胡扯，什么酒店的门禁系统出故障了等等，反正他们没有错，都是我的错....。第二天，下午6电回房间，找早餐券，没有，找前台，告知每人答应要送到房间，送券是服务员，不是前台。再投诉，才把早餐券送过来，同样的理由是工作忙等等，反正是没有错....，气的你没话说。\n早餐非常一般，如果你8点去，只剩下菜汤啦。\n总结：\n1、房间还可以。\n2、环境很差，不是绿化的不好，而是太偏，非常难打车。\n3、服务太差，70年代的水平吧。还象还不想改进。\n4、宽带网很慢。\n补充点评 2007年8月27日 ： 对了，周围很荒凉，如果要吃饭啥的，得打车出去很远。更可气的是，出租车非常难打。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.181",
+      "fileName": "neg.181.txt",
+      "sentenceList": [],
+      "content": "我住的是大床间，房子不算干净，卫生间比较简陋，早餐品种太少，饭店上菜太慢，卫生也是问题，不停有苍蝇转来转去。下次不会再住了。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.186",
+      "fileName": "neg.186.txt",
+      "sentenceList": [],
+      "content": "寰堢牬鐨勯厭搴楋紝鏍规湰涓嶉櫔鎸傜墝鍥涙槦鐨勬爣鍑嗭紝椤跺灏辨槸涓�涓�2鏄熻繕鍕夊己銆傞厭搴楀氨鏄竴涓法澶х殑濞变箰鍦烘墍锛岄噷闈㈠鎬讳細锛屾鎷垮簲鐢ㄥ敖鏈夛紝鏅氫笂楠氭壈鐢佃瘽涓�涓帴涓�涓�傛埧闂磋淇緢鑰侊紝鐢佃绔熺劧涓嶇湅浜嗐�傛洿鎼炵瑧鐨勬槸锛屾瀛愪笂铏界劧鏈夌綉绾匡紝浣嗘槸娌℃湁鎻掑骇锛屾劅鎯呭ぇ瀹剁殑绗旇鏈兘涓嶉渶瑕佸厖鐢典簡涔堛��",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.941",
+      "fileName": "pos.941.txt",
+      "sentenceList": [],
+      "content": "閰掑簵鍦扮悊浣嶇疆鏂逛究锛屾湇鍔′篃涓嶉敊锛岃�屼笖鎴戜滑璁㈢殑鎴块棿鍚帴閫佽溅鏈嶅姟锛屽緢瀹炴儬銆傜己鐐规槸鎴块棿鍋忓皬锛岃�屼笖涓嬮潰灏辨槸棣欐腐娈′华棣�",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6132",
+      "fileName": "pos.6132.txt",
+      "sentenceList": [],
+      "content": "位置就位于屯溪老街街口，非常方便，从火车站打车大概要6-7元，设施挺好，也很干净，房间布置也很有特色，对于我这个要求比较高的人来说很满意，同行的人也很满意！\n补充点评 2008年8月12日 ： 我们住的是3人间，早餐给露露和橙汁，小窝头很好吃，再要没给我，555",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.497",
+      "fileName": "pos.497.txt",
+      "sentenceList": [],
+      "content": "鎴戠粡甯镐綇鍦ㄨタ钘忓ぇ鍘︼紝涓昏鍑哄樊鐨勬柟渚匡紝鍛ㄥ洿鐨勯キ搴椾篃姣旇緝鐔熸倝浜嗭紝杩樻湁涓�涓墿缇庡ぇ鍗栧満锛涘幓棣栧満鏈哄満鐩稿杈冩柟渚裤��",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2623",
+      "fileName": "neg.2623.txt",
+      "sentenceList": [],
+      "content": "我们是上星期四晚上入住的。没有想到是私人别墅。看得出，老板在硬件上花了功夫。但是，卫生上问题重重。毛巾看得出没有洗干净。洗手间地上的垫子非常脏。还不如不要放得好。如果打算在山上悠闲过一天，看看电视，打打牌。呼吸含氧量高的地方，可以住在山上。否则，太不值得了。服务上根本就不值。山上的野味被他们烧了以后，又油又咸又贵。老板应该知道愿意出钱去住的人，也是对服务有要求的人。只此一次。下次不会去那种山庄。感到受欺骗的感觉。实际上发现周围有许多这样所谓的山庄。不知别人是如何预约的。价钱一定会便宜。对消费者来说，总要物有所值吧。\n补充点评 2007年8月6日 ： 如果点评只有一个，看来是不能具有代表性。下次，我要多看看最近的几个点评。也许会准一些。还好有地方能让我写一些，否则，会误导许多人。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2418",
+      "fileName": "neg.2418.txt",
+      "sentenceList": [],
+      "content": "开始住的那个房间初看感觉不错，但空调坏的,一晚没用,卫生间淋浴房洗澡时往外漏水.后来换了一个房间还可以，总体觉得一般。\n补充点评 2008年6月3日 ： 靠近地铁站，交通比较方便，且宽带免费。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3407",
+      "fileName": "pos.3407.txt",
+      "sentenceList": [],
+      "content": "已经住过两次了，我发现酒店附近很难打到出租车，而且酒店自备的出租车不够使用，如果打预约电话叫出租车的的话，时间很难保证，上次入住之后，就由于这个原因，我错过了一趟由上海-北京的航班，我觉得作为这样档次的酒店，这些方面的服务是应该考虑进去的。如果还有别的选择的话，我下次或许不会再住中信。另外，对于中信这样的酒店，协议价500元还是有点贵了。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.4079",
+      "fileName": "pos.4079.txt",
+      "sentenceList": [],
+      "content": "2006年有住过，因酒店的服务、性价比高，所以这次还是住富盈。不同的是酒店的服务意识更高了，客房重新装修过，换上液晶电视、床上用品更舒服，感觉房间豪华气派了。一楼西餐厅晚餐食物又变换了，既丰富又可口，在菲律宾乐队演奏，巧克喷泉悠悠转动中，还有那闻乐而舞的喷泉中，感觉好极了。\n补充点评 2007年11月17日 ： 富盈酒店真的不错，物有所值，推荐给大家！",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.201",
+      "fileName": "neg.201.txt",
+      "sentenceList": [],
+      "content": "涓汉璁や负涓嶇鍚�4鏄熺殑鏉′欢,鎴块棿寰堟疆婀�,閰跺懗澶噸,,鏍规湰娌″姙娉曞叆鐫�,娴村鐨勬潯浠朵篃涓嶆�庝箞鏍�,鎬讳箣鎰熻鏇村儚涓揩鎹峰紡閰掑簵",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1162",
+      "fileName": "neg.1162.txt",
+      "sentenceList": [],
+      "content": "该酒店服务极差（国营单位）。上周我刚刚回来。原本想去宋村漂流，结果被不负责任的服务员（方飞 女士；叶君健，这厮都不敢告诉我他的名字，算不上老爷们！）完全弄错，而且还没有任何歉疚和改正的意思。在我们理论的同时，叶君健这厮还要耍蛮，愣要打人。这就是国营单位的现况！建议大家如果真是没有其他选择，千万不要到这里来，来一个，后悔一个！我算是前车之鉴吧！\n另外这里交通极不方便，出门需要到前台预定出租车，至少15元，比起市内的2元每人，贵太多了！",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1256",
+      "fileName": "neg.1256.txt",
+      "sentenceList": [],
+      "content": "這次在此住了9個晚上...房間雖大...卻有蚊子..隔音太差...向櫃檯詢問可否能給個電蚊香...酒店櫃台居然說沒有(實際上是有的)櫃檯服務員太懶惰....\n之後經反應...將我的房間換到其他間..住了2天居然被房間跳蚤咬了整個大腿14-15個苞...給櫃檯看著我被跳蚤咬的苞...櫃檯人員也沒說什麼...實在可惡!!還要我事後打電話給酒店經理處理....\n住了整整9夜...由於來上海出差18天...之後就改去別家飯店~~\n結帳後...由於我的卡(不是境內卡)需要打給銀行確認..櫃台值班經理居然要我自行撥電話回台灣....服務品質跟房間衛生實在是很糟糕...\n补充点评 2007年10月25日 ： 羆ぇ...┬丁矫ネび畉...狝叭キび,τ盡穨ぃ镑,搂华ぃ,筁胕磌...\n┬丁祑砰砞琁ぃ,筳び畉,疍び,俱丁┬丁3秸,⊿Τ８琌镑....砞琁ρ侣ぃ瞊∣....ぃ続崩滤皊┍!!",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.76",
+      "fileName": "pos.76.txt",
+      "sentenceList": [],
+      "content": "房间内设施还不错,不过浴室的淋浴喷头不好用,水量不可调节,出水较散,有些不象四星级的标准.周边环境尤其是酒店后边环境不太好,大堂也太小了吧.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2293",
+      "fileName": "neg.2293.txt",
+      "sentenceList": [],
+      "content": "差！ 再不会住了\n第一天到，晚上给个吹风机说最后一个了，结果用的时候发现是坏的，害我湿着头发睡觉\n第二天早上，地板封边一条莫名其妙跷起，好像老化了，晚上见完客户回去，发现整栋宾馆停电了，还不知道来电时间……\n第三天早上去结账，靠，说是发票开不了，打不出来了…… 什么破宾馆。一次性用品都差的要死，很多老旧了，幸好我自带了很多物品，否则要重新去超市买了\n有生以来住过最搞笑而糟糕的酒店",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.998",
+      "fileName": "neg.998.txt",
+      "sentenceList": [],
+      "content": "我们去盐城的时候那里的最低气温只有4度，晚上冷得要死，居然还不开空调，投诉到酒店客房部，得到的答复是现在还没有领导指示需要开暖气，如果冷到话可以多给一床被子，太可怜了。。。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6283",
+      "fileName": "pos.6283.txt",
+      "sentenceList": [],
+      "content": "早餐收费,品种太少!交通比较方便,离上海地铁4号线东安路走路5分钟!\n补充点评 2008年6月27日 ： 刷卡品种比较少,除了广发和兴业都不能用!",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6819",
+      "fileName": "pos.6819.txt",
+      "sentenceList": [],
+      "content": "我订的是主楼的房间,房间不错,酒店周边环境较好,有宽带,我住的九楼有个公共大阳台.\n酒店的早晨品种比较多,但是品质一般,服务员态度热情,但是业务水平有待提高:例如给我的房卡第一次开不了门,要到前台重新制卡才OK.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1203",
+      "fileName": "neg.1203.txt",
+      "sentenceList": [],
+      "content": "地下车库几乎没有灯，一地泥汤，下车时踩了一脚泥水。所谓海景房看不到海不说，临界巨吵，半夜被街上小贩、拖拉机吵醒再也无法入睡。有骚扰电话，宽带不能上网。没有浴缸，没有浴帽，没有放拖鞋。前台小姐居然拿着电话与男友聊情话而把客人晾一边，真是仅见观瞻。建议携程取消与这家的合作。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.5206",
+      "fileName": "pos.5206.txt",
+      "sentenceList": [],
+      "content": "服务态度不错。我住的是数码房，房间很宽敞，网速有点卡。建议以后在客人入住时即办理早餐券，避免早晨退房的和办早餐券的扎堆挤在一起。服务员忙得不可开交，客人们等得火冒三丈。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.4591",
+      "fileName": "pos.4591.txt",
+      "sentenceList": [],
+      "content": "酒店环境很好，别墅每层都很高，宽敞，只是晚上比较冷清，只能到几公里外的博鳌镇上逛逛买点水果什么的．这次去时估计是客人较少，早餐不是自助是分别点的，中式早餐粮食太多（粥，炒面，馒头包子，一些花生米榨菜半个咸鸭蛋），西式的还可以，但不问的话没有主动给咖啡，奶（不知为什么）．酒店所有人员．\n补充点评 2007年11月15日 ： 浴室光线较暗，没有挂衣服的地方．同意前面几位的说法，环境和服务都好，就是内部不能细看．",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.892",
+      "fileName": "pos.892.txt",
+      "sentenceList": [],
+      "content": "我是8月1日入住该酒店的,来香港主要为了SHOPPING,所以从地点来讲,酒店算是在较偏的位置,但觉得对得起我订的价格HKD550元/晚.\n房间很干净,而且我所入住的半海景房真的能看到很宽阔的海景,感觉很不错,卫生间很阔落,非常舒服.唯一欠缺的就是电视机,安置在床的侧面,看起来不是很方便,不过还好啦,反正不是为了看电视.\n交通方面,我没有遇到多大问题,只是那天来回上环,中环,酒店很多回,觉得酒店确是离购物点远了点.一般来说我从酒店出门就是看准它提供的SHUTTLEBUS的时间出发到港铁站(即中环站)转乘, 回来则是搭到上环再转电车(俗称叮叮).因为沿路都有海景,感觉很是挺惬意的．\n对于订房我还有一点要补充：就是一定要提早定啊，我是一直在比价才选了８月１日出发（当然那几天还是动漫节则更一举两得），后来我接近８／１再查看时，价格已经变成１千多了，酒店是海鲜价因此深有体会．",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2153",
+      "fileName": "neg.2153.txt",
+      "sentenceList": [],
+      "content": "我给我老家来的亲戚订的这个酒店，与我住的地方比较近，总天感觉酒店很一般。\n只是有个免费的停车场，也基本够大，每次过来停车比较方便。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6230",
+      "fileName": "pos.6230.txt",
+      "sentenceList": [],
+      "content": "干净，房间也够大，缺点是厕所太小，特别是大床间，几乎不能转身。不过对于这个价格的宾馆而言还是很超值的。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.474",
+      "fileName": "pos.474.txt",
+      "sentenceList": [],
+      "content": "鍥犱负绂诲鎴峰緢杩戞墍浠ヨ寰楅潪甯告柟渚匡紝璇村疄璇濇埧闂存病鎬庝箞娉ㄦ剰杩囷紝鍥犱负涓�澶╀腑鍙湁鏃╀笂鏄瘮杈冩竻閱掔殑锛屽叾浠栨椂鍊欓兘閱夌潃銆傛棭椁愯繕涓嶉敊锛屾埧闂翠篃鎸哄共鍑�銆傚緢鍙儨浣忎簡涓ゅぉ鍗婂緢鍖嗗繖娌″幓鐪嬬湅閭ｄ釜鍏ㄥ競鏈�澶х殑鍐叉氮娓告吵棣嗐��",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2289",
+      "fileName": "neg.2289.txt",
+      "sentenceList": [],
+      "content": "入住两个晚上（5/30-6/1日），第一晚上被蚊子咬的无法睡觉，5月31日找前台换房间，既然还告诉我这房间是他们最好的，就是有点蚊子而已；离店时还无法提供发票，说是税务部门还没有批发票给他们（税务部门没批也可以营业吗？）。整体服务实在让人难以接受。",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3239",
+      "fileName": "pos.3239.txt",
+      "sentenceList": [],
+      "content": "住的是268的转角房.整个酒店的感觉还不错,在南阳已经不错了.\n可能是房间比较小的缘故,卫生间门不关的话,房间里会有一点气味.\n结帐的时候前台表示不能修改清单的内容,得去商务中心重新打印要花5块钱,这个比较不方便,其他酒店都可以免费改的.\n早餐很一般,不像4星级的.\n总的来说,还是推荐的.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.107",
+      "fileName": "pos.107.txt",
+      "sentenceList": [],
+      "content": "订的标准间，但免费升级为行政间，不错。\n酒店环境不错，服务也很好。\n但酒店门口的停车场竟然要收费，感觉很不好，第一次碰到这种状况，希望下次去，住店的客人能够免费，不是因为20元的原因，是因为你们是五星级酒店，自然应该有真正五星级的服务。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3767",
+      "fileName": "pos.3767.txt",
+      "sentenceList": [],
+      "content": "1、酒店环境很好，张江园区环境非常好\n2、豪华大床房很大，而且有阳台，可以看见下面的湖，房间也很明亮\n3、酒店突出了商务氛围\n4、前台、楼层服务员、餐厅服务员热情、友好、主动\n5、房间地毯比较脏\n6�",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3589",
+      "fileName": "pos.3589.txt",
+      "sentenceList": [],
+      "content": "虽然说是四星的，实际上比某些号称五星的强很多，占地面积非常大，分三个大区，酒店整体上也算豪华，设施什么的都很好，靠海边就是舒服，视野好，价格上没什么优势，不便宜也不算太贵，餐厅的自助餐还不错，算便宜的。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.14",
+      "fileName": "pos.14.txt",
+      "sentenceList": [],
+      "content": "鏈嶅姟涓嶆槸寰堜笓涓氾紝澶勭悊閫熷害澶參銆備笉杩囷紝鍥犱负鏈嶅姟鍛樼殑灏忛敊璇紝鍓悊浜茶嚜涓婃潵閬撴瓑锛岃繕鏄潪甯歌浜烘劅鍔ㄧ殑銆�",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.1240",
+      "fileName": "neg.1240.txt",
+      "sentenceList": [],
+      "content": "五一节期间入住，建筑挺宏伟，车开到酒店门口没有人理你或引导你停车到位，询问哪里有停车，被答复没有，后来自己",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.620",
+      "fileName": "neg.620.txt",
+      "sentenceList": [],
+      "content": "鏈夐偅涔堝鏈嬪弸鐐硅瘎閽荤煶鍏瘬锛屼笉濡ㄥ啀璁蹭袱鍙ャ��\n閽荤煶鏂版帹鍑虹殑鈥滅壒浠封�濆弻浜烘埧锛屽叾瀹炰竴鐐逛篃涓嶇壒浠枫�備互鍓嶆湁鍥藉鏈嬪弸鏉ヤ笂娴凤紝涓�鐩存瘮杈冩帹鑽愰捇鐭筹紝浠栦滑涔熸瘮杈冩弧鎰忋�備絾杩欐7鏈堜笂鏃殑鍏ヤ綇鏂版帹鍑虹殑鐗逛环鍙屼汉鎴匡紝鏈嬪弸鍙嶆槧鎴块棿姣斾互鍓嶅皬澶氫簡锛屾�讳綋姣斾互鍓嶇殑鐨勫鎴垮樊澶氫簡銆�\n璁㈡埧鐨勬椂鍊欙紝鍙岀壒浠蜂汉鎴垮拰濂楁埧鐨勪环鏍煎彧鐩稿樊鍑犲崄鍏冿紝浣嗗疄闄呮儏鍐靛嵈鐩稿樊寰堝ぇ锛屾垜璁や负杩欐槸閽荤煶鍦ㄥ拷鎮犲浜恒��",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.6054",
+      "fileName": "pos.6054.txt",
+      "sentenceList": [],
+      "content": "早些时间发过一次,但不知为什么评论中并没显示. 现在再发一次.\n我们全家不久前入住了行政豪华套房. 酒店的硬件还是不错的,前台和楼层的服务�",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3365",
+      "fileName": "pos.3365.txt",
+      "sentenceList": [],
+      "content": "在井冈山长青宾馆住了一晚，感觉很好：\n1.环境幽静，特别适于旅途休息；\n2.停车场很宽敞，适合自驾者停车；\n3.房间蛮大而且干净；\n4.最值得夸奖的是餐厅的服务特别好，态度亲切，环境清洁菜式可口，不像传说中的江西菜很咸，而是清淡入味。\n美中不足有：\n1.入住时正好是工作人员用餐时间，前台居然没有值班人员，还是保安帮助请来前台才办理了手续；\n2.信用卡不能使用；\nP.S.酒店在井冈山宾馆边、天街入口对面的一条小路上，自驾的朋友可是要仔细找哦。\n补充点评 2008年4月13日 ： 补充一下：\n宾馆开夜床时给每个床头各放了一只玫瑰，真是不小的惊喜。女儿因此欣喜若狂，下次如果来，还住这里。",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.3729",
+      "fileName": "pos.3729.txt",
+      "sentenceList": [],
+      "content": "房间可以免费打长途很好.离西湖也不是很近.门口有直达公交去钱塘江和六和塔.还有一个小饭店,有杭州本地菜肴.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1719",
+      "fileName": "pos.1719.txt",
+      "sentenceList": [],
+      "content": "春节酒店特价,当即退了\"如家\",转投喜来登.\n高级房只有三星级标准,太小了.换了豪华间,才有点五星的样子.不知道五星的客房标准是怎么设定的.\n床和床上用品是\"喜来登\"的特色,羽绒枕还是那么舒服!!\n服务上,这家有点逊色,特别是行李员,我背个大包也不接接手;前台还行,换房很有效率.\n看在特价的份上,不计较了.要是平时价,不值的.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.2388",
+      "fileName": "pos.2388.txt",
+      "sentenceList": [],
+      "content": "入住了2间行政湖景房2个晚上, 感觉房间有点小,但是设计还不错.卫生间和四星的行政房来比就真是小了不少. 电视也是很旧款很小的那种. 景色是真的不错.出去散步也很方便.服务就要看人了,CHECK-IN 的时候明明说了要求要吸烟楼层,前台居然骗我说行政楼层都是非吸烟的.进了电梯才发现只有我住的24层是行政楼层的第一层,也是非吸烟楼层.25-28楼都是可以吸烟的.在这件事情上弄的很不愉快.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2093",
+      "fileName": "neg.2093.txt",
+      "sentenceList": [],
+      "content": "酒店里的服务态度超差，餐厅里的服务员的素质就更差，当时我一个人去吃饭，看见菜单上写的酸菜鱼是8块，当时还告诉了服务员我就一个人，心想一个人正好，又点了其他的菜，谁知道付钱的时候告诉我酸菜鱼是35元的，钱倒是其次的，明知道我一个人，还一个劲鼓吹他们烧的多好吃，郁闷！本来准备住三天的，第二天一早就退了房间，超烂的酒店！",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.737",
+      "fileName": "pos.737.txt",
+      "sentenceList": [],
+      "content": "閰掑簵鎵�澶勭幆澧冧笉閿�,灏ゅ叾鏄笅鍗堜簲鐐瑰崐鎵�鏈夊柗娉変竴璧峰惎鍔�,鐪熸槸寰堝．瑙�!\n鏅氫笂鍑烘潵鏁ｆ,鎰熷彈鐨勬槸闈欒哀鍜屾竻鏂�,涓�鎺掓帓鏁撮綈鐨勫皬鐏�,浠夸經甯︿綘璧拌繘姊﹀够鐨勪笘鐣�.濡傛灉鎯呬荆搴﹀亣,閫夋嫨杩欎釜閰掑簵鏄緢濂界殑.\n閬楁喚鐨勬槸娌＄湅鍒版鑺�,璇存槸鑺辨湡杩囦簡.鏃╅澶畝鍗曚簡,鍜岄厭搴楃殑鏍囧噯涓嶇.\n閫�鎴跨殑鏃跺�欐ゼ涓婂憡鐭ュ墠鍙拌鎴戞紡鍦ㄦ埧闂撮噷涓�鏀礂闈㈠ザ,缁撴灉浜茶嚜甯垜閫佷笅鏉�,杩橀檮閫佷簡涓�涓寲濡嗚,鍊煎緱琛ㄦ壃锛�\n鍗楀浗妗冨洯澶勫鏈夐鏅�,鏋腹鐧介弓鍊煎緱涓�浣�,涓嬫鍘讳細閫夋嫨鍒鐨�.",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "pos.1825",
+      "fileName": "pos.1825.txt",
+      "sentenceList": [],
+      "content": "第一次住在这里儿，我针对大家的意见，特别关注了一下，感觉如下吧！\n1、标准间虽然有点旧但很干净，被子盖得很舒服，也很暖和，卫生间也蛮大的，因是在商业中心离很多还算很近。\n2、酒店服务还算可以，没有像这里说的那样，入住时，退房时也挺快的，总的来说我很满意。\n3、早餐也还可以，环境也不错，有点江南的感觉；菜品种品也不少，挺可口。\n4、可能是在市或者离火车站的距离很近，稍微有点“热闹”，来找我办事的人不方便停车，但还好这里有地下停车场。\n总体来说，我感觉很不错，值得推荐！！！",
+      "isSeged": false,
+      "sentiment": 1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.2008",
+      "fileName": "neg.2008.txt",
+      "sentenceList": [],
+      "content": "一个字:差,2个字:很差.3个字:非常差.实在不能住人.\n哎!要不是其他饭店太贵的话，我是绝对不会定这间的.\nCTRIP没有把真实的房间照片反应出来.",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    },
+    {
+      "title": "neg.545",
+      "fileName": "neg.545.txt",
+      "sentenceList": [],
+      "content": "07骞存浘缁忎綇杩囦竴娆★紝鎰熻杩樺彲浠ャ��\n杩欐鎰熻涓嶅ソ锛岃瀛愩�佸簥鍗曞お銆佸お銆佸お鏃т簡锛屾棭璇ユ崲鏂扮殑浜嗐�傚叾浠栨湇鍔′笟閮戒竴鑸��",
+      "isSeged": false,
+      "sentiment": -1.0,
+      "opinionated": true,
+      "isSegedwithNature": false
+    }
+  ]
+}

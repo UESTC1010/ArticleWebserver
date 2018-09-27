@@ -2,8 +2,8 @@ package uestc.articlewebserver;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 import nlplib.commonclasses.Article;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -16,9 +16,10 @@ import org.springframework.web.bind.annotation.RestController;
  */
 /**
  *
- * @author uestc
+ * @author uestc1010
  */
 @RestController
+@EnableAutoConfiguration
 public class ArticleWebserverController {
 
     CorpusManager corpusManager = new CorpusManager();
@@ -30,16 +31,16 @@ public class ArticleWebserverController {
     }
 
     @RequestMapping("/listCorpus")
-    public Set<String> listCorpus() {
+    public List<String> listCorpus() {
         System.out.println("@RequestMapping(\"/listCorpus\")");
-        return corpusManager.getCorpusMap().keySet();
+        return corpusManager.getCorpusList();
     }
 
     @RequestMapping("/getCorpus")
     public List<Article> getCorpus(@RequestParam("corpus") String corpus) {
         System.out.println("@RequestMapping(\"/getCorpus\")");
-        if (corpusManager.getCorpusMap().get(corpus) != null) {
-            return corpusManager.getCorpusMap().get(corpus).getArticles();
+        if (corpusManager.getCorpusList().contains(corpus)) {
+            return corpusManager.getCorpus(corpus).getArticles();
         }
         return new ArrayList<Article>();
     }

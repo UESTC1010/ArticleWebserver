@@ -1,0 +1,4796 @@
+{
+  "relationCountTotal": 100,
+  "relationCountUnique": 60,
+  "relationTypes": [
+    "组织运动领导",
+    "竞争关系",
+    "夫妻",
+    "地方领导"
+  ],
+  "relations": [
+    {
+      "entity1": {
+        "entityName": "学校",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "主任",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "中华全国青年联合会",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "中国共产党",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "安琪媛",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "齐霁",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "刘备",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "孙权",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "廖仲恺",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "何香凝",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "常仪",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "帝俊",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "刘备",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "曹操",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "刘修明",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "徐孝嗣",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "大使馆",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "公使",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "刘备",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "孙尚香",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "谷开来",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "薄熙来",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "潘汉年",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "董慧",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "邵阳",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "市委书记",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "梅超风",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "江南七怪",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "刘嘉玲",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "梁朝伟",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "澳门",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "崔世安",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "学校",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "校长",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "固原",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "马汉成",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "福尔摩斯",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "詹姆斯·莫里亚蒂",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "郑州铁路局",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "何元",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "杭州",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "张鸿铭",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "长沙",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "市委书记",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "诸葛亮",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "司马懿",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "新东方",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "俞敏洪",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "中统",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "陈立夫",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "骊姬",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "晋献公",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "农民协会",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "中国共产党",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "都察院",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "左",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "湖北",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "省长",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "天津",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "市长",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "天津",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "黄兴国",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "太平天国运动",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "李秀成",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "苏三",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "王景隆",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "小茂",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "小智",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "梁山伯",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "祝英台",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "方于",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "李丹",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "石家庄",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "市委书记",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "中国国民党",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "洪秀柱",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "张学友",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "罗美薇",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "也速干",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "成吉思汗",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "素素",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "香玉山",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "新北",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "朱立伦",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "伊琳娜",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "利奥四世",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "夜帝",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "夜帝夫人",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "中国国民党",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "连战",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "江华",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "麦洁文",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "本田",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "马自达",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "芜湖",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "市长",
+        "entityType": "一般实体"
+      },
+      "relationship": "地方领导"
+    },
+    {
+      "entity1": {
+        "entityName": "亚历山大大帝",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "罗克珊娜",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "金友庄",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "高凌风",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "大卫",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "托尼",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "本田",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "日产",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "彭丽媛",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "习近平",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "水晶宫",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "布莱顿",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "柴田胜家",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "丰臣秀吉",
+        "entityType": "一般实体"
+      },
+      "relationship": "竞争关系"
+    },
+    {
+      "entity1": {
+        "entityName": "武装力量",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "国家元首",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "孔子",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "亓官氏",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "西北军政委员会",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "彭德怀",
+        "entityType": "一般实体"
+      },
+      "relationship": "组织运动领导"
+    },
+    {
+      "entity1": {
+        "entityName": "公主",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "驸马",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    },
+    {
+      "entity1": {
+        "entityName": "李俐",
+        "entityType": "一般实体"
+      },
+      "entity2": {
+        "entityName": "满文军",
+        "entityType": "一般实体"
+      },
+      "relationship": "夫妻"
+    }
+  ],
+  "entityTypes": [
+    "一般实体"
+  ],
+  "entities": [
+    {
+      "entityName": "曹操",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "邵阳",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "日产",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "高凌风",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "天津",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "托尼",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "苏三",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "崔世安",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "安琪媛",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "公主",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "詹姆斯·莫里亚蒂",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "连战",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "梁山伯",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "马汉成",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "主任",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "农民协会",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "帝俊",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "新东方",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "晋献公",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "布莱顿",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "太平天国运动",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "祝英台",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "张鸿铭",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "刘备",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "梁朝伟",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "徐孝嗣",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "成吉思汗",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "孙权",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "彭丽媛",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "中国国民党",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "伊琳娜",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "何元",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "校长",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "本田",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "夜帝",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "国家元首",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "小智",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "芜湖",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "武装力量",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "市委书记",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "香玉山",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "新北",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "潘汉年",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "薄熙来",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "洪秀柱",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "澳门",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "也速干",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "左",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "大使馆",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "齐霁",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "黄兴国",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "马自达",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "孔子",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "石家庄",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "张学友",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "诸葛亮",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "刘修明",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "小茂",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "素素",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "谷开来",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "陈立夫",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "罗克珊娜",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "习近平",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "李秀成",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "江南七怪",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "利奥四世",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "夜帝夫人",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "俞敏洪",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "麦洁文",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "彭德怀",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "市长",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "方于",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "常仪",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "长沙",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "梅超风",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "杭州",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "王景隆",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "中国共产党",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "刘嘉玲",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "李俐",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "省长",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "郑州铁路局",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "柴田胜家",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "大卫",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "丰臣秀吉",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "廖仲恺",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "都察院",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "江华",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "湖北",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "骊姬",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "亚历山大大帝",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "公使",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "学校",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "驸马",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "亓官氏",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "罗美薇",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "水晶宫",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "金友庄",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "福尔摩斯",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "何香凝",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "固原",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "孙尚香",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "李丹",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "董慧",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "朱立伦",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "司马懿",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "西北军政委员会",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "中统",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "中华全国青年联合会",
+      "entityType": "一般实体"
+    },
+    {
+      "entityName": "满文军",
+      "entityType": "一般实体"
+    }
+  ],
+  "articlesCount": 100,
+  "articles": [
+    {
+      "title": "article-4602",
+      "keywords": {},
+      "fileName": "article-4602.txt",
+      "content": "郑州铁路局简称郑局，中国铁路总公司属下铁路局，受武汉铁路监管局监管。现任局长何元。管辖线路主要分布在河南省和山西省南部，另外陇海铁路太要站、宁西铁路富水站（位于陕西省境内）及其附近线路区间以及新兖铁路算王庄站（位于山东省境内）及其以西线路区间也隶属于郑局。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "郑州铁路局",
+          "entityType": "一般实体"
+        },
+        "38": {
+          "entityName": "何元",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "郑州铁路局",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "何元",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-10041",
+      "keywords": {},
+      "fileName": "article-10041.txt",
+      "content": "满文军的证言明确指认聚会是其妻李俐提前半个多月组织的。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "满文军",
+          "entityType": "一般实体"
+        },
+        "15": {
+          "entityName": "李俐",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "李俐",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "满文军",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-3460",
+      "keywords": {},
+      "fileName": "article-3460.txt",
+      "content": "2011年10月12日金友庄传出已和高凌风协议离婚。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "11": {
+          "entityName": "金友庄",
+          "entityType": "一般实体"
+        },
+        "18": {
+          "entityName": "高凌风",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "金友庄",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "高凌风",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-8859",
+      "keywords": {},
+      "fileName": "article-8859.txt",
+      "content": "由于时任行政长官何厚铧已经于2004年连任一届行政长官，因此何厚铧并没有参选资格，故此届必定会选出新一任之特首。而澳门坊间以及港澳地区的传媒由2007年年底开始均盛传身兼全国人大常委的澳门行政会成员贺一诚、澳门检察院检察长何超明、社会文化司司长崔世安、经济财政司司长谭伯源以及梁维特会参加是次选举；但贺一诚、何超明分别于2009年3月23日及6月11日明确向外表示不会参选。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "57": {
+          "entityName": "澳门",
+          "entityType": "一般实体"
+        },
+        "92": {
+          "entityName": "澳门",
+          "entityType": "一般实体"
+        },
+        "103": {
+          "entityName": "澳门",
+          "entityType": "一般实体"
+        },
+        "122": {
+          "entityName": "崔世安",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "澳门",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "崔世安",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-1197",
+      "keywords": {},
+      "fileName": "article-1197.txt",
+      "content": "2017年中国国民党主席选举，候选人分别是洪秀柱、吴敦义、郝龙斌、詹启贤、韩国瑜，被外界从五位候选人的姓名中各取一字，戏称为“咸鱼好无助”，借以讽刺国民党内的各种乱象。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "中国国民党",
+          "entityType": "一般实体"
+        },
+        "21": {
+          "entityName": "洪秀柱",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "中国国民党",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "洪秀柱",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-1161",
+      "keywords": {},
+      "fileName": "article-1161.txt",
+      "content": "遣将分驻要地，都由刘备所指挥，一开始没和孙权说明，因为荆州本来就不是孙权的地，因此刘备不需要和孙权禀报，孙权也没来阻拦刘备。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "9": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        },
+        "20": {
+          "entityName": "孙权",
+          "entityType": "一般实体"
+        },
+        "34": {
+          "entityName": "孙权",
+          "entityType": "一般实体"
+        },
+        "41": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        },
+        "47": {
+          "entityName": "孙权",
+          "entityType": "一般实体"
+        },
+        "52": {
+          "entityName": "孙权",
+          "entityType": "一般实体"
+        },
+        "59": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "孙权",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-1997",
+      "keywords": {},
+      "fileName": "article-1997.txt",
+      "content": "学校位于上海市虹口区中山北一路295号。现任校长、书记崔德明。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "22": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6545",
+      "keywords": {},
+      "fileName": "article-6545.txt",
+      "content": "1944年3月编入预备役，隔月被召集担任高雄要塞的司令官。1945年3月四度在重砲兵学校担任校长后于9月解除召集。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "42": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "46": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-2574",
+      "keywords": {},
+      "fileName": "article-2574.txt",
+      "content": ":朱藻：夜帝与夜帝夫人之子，人称麻衣客，性情高雅，文韬武略样样皆精。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "夜帝",
+          "entityType": "一般实体"
+        },
+        "7": {
+          "entityName": "夜帝夫人",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "夜帝",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "夜帝夫人",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-2581",
+      "keywords": {},
+      "fileName": "article-2581.txt",
+      "content": "20世纪80至90年代，深圳外语人才缺口较大，对外语人才的培养未能跟上市场需求。1990年，深圳市政府有意创办外语学校。同年1月，深圳市委组织考察团前往京津两地，考察两地外语学校办学情况，并于3月开始筹建深圳外国语学校。同年9月，深圳外国语学校正式开学，第一届学生仅有50人，第一任校长为龚国祥。开办初期学校借用深圳中学校舍的4间房间办学。1992年，深圳外国语学校燕南校舍启用。1993年中考，深圳外国语学校第一届毕业生平均成绩居全市各中学之首。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "57": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "87": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "107": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "120": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "141": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "152": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "159": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "181": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "203": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6745",
+      "keywords": {},
+      "fileName": "article-6745.txt",
+      "content": "毕业于武汉粮食工业学校。1991年2月，任新疆自治区经委副主任、主任。2003年1月，任新疆自治区人大常委会副主任。2009年6月退休。2014年去世。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "9": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "29": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        },
+        "32": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        },
+        "55": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "主任",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-9944",
+      "keywords": {},
+      "fileName": "article-9944.txt",
+      "content": "娶秦国长公主耶律巖母菫，授驸马都尉。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "13": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-5603",
+      "keywords": {},
+      "fileName": "article-5603.txt",
+      "content": "2000年，香港学校网络以有限公司名义联同当时的教育署向优质教育基金申请港币3千万元创建香港资讯教育城，香港中文大学讯息工程系黄宝财教授出任计划总监。教育署方面则由首席教育主任（资讯系统）马绍良先生负责监管。黄教授一直致力推动香港的资讯科技教育发展，早年已免费提供拨号上网服务给学校及老师，对资讯科技教育贡献良多，备受学界尊敬，教育城亦以黄教授早年发展的资讯校园为基础，所以可以在短短半年内推出教育城网站。而马绍良先生早年为沙田官立中学校长，带领学校成为十间资讯科技教育先导中学之一，具前线实战经验。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "8": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "86": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        },
+        "139": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "217": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "223": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "主任",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-806",
+      "keywords": {},
+      "fileName": "article-806.txt",
+      "content": "抗日战争爆发后，易良品任八路军129师386旅772团三营营长、团长，随后参加长乐村战斗。1938年，易良品任129师随营学校校长，培养中共军政干部。1940年5月，易良品调任冀南军区新七旅旅长。8月，参加百团大战。1942年，易良品调任冀南军区第六军分区司令员。1943年3月15日，分区在冀县刘庄召开政工会议，后又转移到枣强县杨庄。次日，被日军包围。易良品在突围中，被子弹击中了腹部，随即被警卫抬到底阁村掩藏。由于日军搜捕，易良品得不到及时救治；3月25日，易良品因伤势恶化身亡。遗骨被安葬于河北省邯郸市的晋冀鲁豫烈士陵园之中。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "61": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "63": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-1443",
+      "keywords": {},
+      "fileName": "article-1443.txt",
+      "content": "乃以第四代马自达2为架构而发展的小型跨界休旅车，对手直指速霸陆XV、福特EcoSport}、日产Juke、本田HR-V、斯柯达野帝等车款。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "马自达",
+          "entityType": "一般实体"
+        },
+        "53": {
+          "entityName": "本田",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "本田",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "马自达",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-9896",
+      "keywords": {},
+      "fileName": "article-9896.txt",
+      "content": "薛伯阳先后娶唐睿宗女仙源公主（凉国公主）、荆山公主（两位公主可能是一人），以尚公主拜右千牛卫将军，驸马都尉。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "12": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "17": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "23": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "28": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "39": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "49": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-116",
+      "keywords": {},
+      "fileName": "article-116.txt",
+      "content": "2014年1月5日上午，部分信众来到西吉北大寺参加已故宗教人士忌日纪念活动。当日13时左右，在为信众散发油香（油饼）的过程中，信众相互拥挤，发生了意外踩踏事故。受伤人员随即全部送到西吉县人民医院抢救，截至1月6日，有14人经抢救无效死亡，其他受伤人员10人（其中4人重伤）仍在医院救治。事件发生后，中共中央总书记习近平作出指示，中央政治局常委李克强、俞正声等中央领导作出批示，中共宁夏回族自治区党委书记李建华、宁夏回族自治区人民政府主席刘慧、党委副书记崔波以及党委常委、统战部部长马三刚迅速作出批示，“要求全力抢救伤员，妥善处理善后工作，安抚好家属，查清事故原因，确保社会大局稳定”。刘慧以及中共宁夏回族自治区党委常委、中共固原市委书记李文章，宁夏回族自治区副主席白雪山以及固原市领导马汉成、张佑昌、马志宏、吴会军等人赶往西吉县看望慰问受伤者。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "312": {
+          "entityName": "固原",
+          "entityType": "一般实体"
+        },
+        "337": {
+          "entityName": "固原",
+          "entityType": "一般实体"
+        },
+        "342": {
+          "entityName": "马汉成",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "固原",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "马汉成",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5018",
+      "keywords": {},
+      "fileName": "article-5018.txt",
+      "content": "民国建立后，1912年改名广东海军学校，由李田出任首任校长。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "17": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "27": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-11130",
+      "keywords": {},
+      "fileName": "article-11130.txt",
+      "content": "2000年1月，连战全国竞选总部迁入广播电视大厦。2000年1月10日，民主进步党总统候选人陈水扁全国竞选总部选战指挥中心副总干事李逸洋指控，广播电视大厦土地系接收自台湾放送协会，面积六千坪，市价在新台币120亿至150亿元之间，中国国民党却以新台币88亿元贱卖以规避人民索讨。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "8": {
+          "entityName": "连战",
+          "entityType": "一般实体"
+        },
+        "115": {
+          "entityName": "中国国民党",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "中国国民党",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "连战",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-10251",
+      "keywords": {},
+      "fileName": "article-10251.txt",
+      "content": "依《性别平等教育法》第9条规定，国民中学校内应设有5至21人的性别平等教育委员会（简称性平会）处理性侵害、性骚扰或性霸凌案件，性平会负有通报、调查、保密和行政处分的权力与义务，其成员应包含专家学者、教师代表和家长代表，且女性委员占性平会委员的比例不能低于formula_3。学校必须在得知事件后24小时内通报地方政府教育局处，得知的方式包括接获检举、主动发现和媒体报导等。相关人员超过24小时未通报，让性侵害事件重演的话，校长、教师或行政人员可被解聘或免职，负起行政责任。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "19": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "137": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "211": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6596",
+      "keywords": {},
+      "fileName": "article-6596.txt",
+      "content": "1929年，叶夏声编遣退役，到欧美考察。1936年归国，任广东高等法院院长，兼任广东省立法政学校校长，还当选立法院立法委员。叶夏声曾经入陆军大学将校班研究战术。抗日战争爆发后，叶夏声任国民政府军事委员会中将参议，赴冀北、苏浙地区从事联络工作。1945年底，叶夏声被国民政府国防部第二厅派驻上海执行整肃工作。1947年回到广东，开设律师事务所，兼修国史，还担任孙中山学社常务理事。1949年，叶夏声赴香港。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "46": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "48": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-789",
+      "keywords": {},
+      "fileName": "article-789.txt",
+      "content": "在美国工作两年多后，蓝来讷在1945年6月以六等外交事务官身份擢升为总领事，并以汉务参赞身份返回中国重庆的英国驻华大使馆任职。当时第二次世界大战已接近尾声，日本濒临战败边缘，因此他主要负责谋划战后的善后事宜和重整英国在华的外交工作。大战结束后，中国很快随著第二次国共内战爆发而战火重燃，中国大陆局势持续动荡，国民党形势也江河日下。其间，蓝来讷于1946年5月跟随大使馆迁往南京办工，并于1947年2月以五等外交事务官身份升任为驻华公使，任内分别于1947年和1948年两度接替返英休假的驻华大使施谛文爵士以代办身份代理馆务。1948年，他的职级获调升为四等外交事务官，且再度获英廷颁授CMG勋衔，以肯定他在华任职多年的工作表现。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "57": {
+          "entityName": "大使馆",
+          "entityType": "一般实体"
+        },
+        "181": {
+          "entityName": "大使馆",
+          "entityType": "一般实体"
+        },
+        "215": {
+          "entityName": "公使",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "大使馆",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "公使",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6667",
+      "keywords": {},
+      "fileName": "article-6667.txt",
+      "content": "水晶宫足球俱乐部于1922年1月3日以2，570英镑从布莱顿及南海岸铁路公司购入一幅位于塞尔赫斯特已荒废的前制砖工地，随即礼聘著名球场建筑师阿奇巴尔·雷奇设计及兴建新球场，主看台有别于雷奇设计的其他球场，并没有顶盖山墙，建筑费用约3万英镑，于1924年8月30日新球季首日由时任伦敦市市长主持正式揭幕，当时只有主看台，且因发生工业行动而尚未完工；水晶宫在当日于25，000名主场观众面前以0-1不敌谢周三足球俱乐部|-，由比利·马斯顿取得首个入球。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "水晶宫",
+          "entityType": "一般实体"
+        },
+        "27": {
+          "entityName": "布莱顿",
+          "entityType": "一般实体"
+        },
+        "173": {
+          "entityName": "水晶宫",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "水晶宫",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "布莱顿",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-1476",
+      "keywords": {},
+      "fileName": "article-1476.txt",
+      "content": "孙权就派吕蒙袭取长沙等三郡，刘备亦率军东下支援关羽，双方对峙于湘江。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "孙权",
+          "entityType": "一般实体"
+        },
+        "14": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "孙权",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-5593",
+      "keywords": {},
+      "fileName": "article-5593.txt",
+      "content": "孙发绪早年充任安徽巡抚朱家宝的幕友。1911年武昌起义爆发后，他被朱家宝派往武昌打探消息，后被黎元洪任为顾问。他还作为湖北代表参加了各省都督府代表联合会。1912年1月16日民社在上海成立，该社由黎元洪、孙发绪等人发起。1913年，北京政府授其勋位。1913年底，他任河北定县知事，旋升道尹。1916年7月，他任山东省省长。1916年10月，他改任山西省省长。1917年6月5日他被阎锡山驱逐而离任，由阎锡山继任山西省省长。1923年孙发绪起草了《统一方案》，并联合曹锟、吴佩孚、冯玉祥、张绍曾等人签字后，向南方提出。此举惹恼了黎元洪。后来他去保定任曹锟的高等顾问。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "59": {
+          "entityName": "湖北",
+          "entityType": "一般实体"
+        },
+        "159": {
+          "entityName": "省长",
+          "entityType": "一般实体"
+        },
+        "177": {
+          "entityName": "省长",
+          "entityType": "一般实体"
+        },
+        "209": {
+          "entityName": "省长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "湖北",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "省长",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-110",
+      "keywords": {},
+      "fileName": "article-110.txt",
+      "content": "罗美薇（MayLoMeiMei，）是香港的著名女演员，亦是香港著名艺人张学友的妻子。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "罗美薇",
+          "entityType": "一般实体"
+        },
+        "35": {
+          "entityName": "张学友",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "张学友",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "罗美薇",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-8229",
+      "keywords": {},
+      "fileName": "article-8229.txt",
+      "content": "1977年自原常德师范高等专科学校毕业后，蒋建国进入中共汉寿县委工作。此后，他曾长期在地方党委组织部门工作；1986年起，担任时任中共湖南省委组织部部长孙文盛的秘书。1992年出任益阳市（县级）市委书记；次年升任益阳地委副书记；1995年，升任湘潭市委副书记、市长；2000年，出任邵阳市委书记；2004年，升任中共湖南省委常委、省委宣传部部长。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "97": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        },
+        "141": {
+          "entityName": "邵阳",
+          "entityType": "一般实体"
+        },
+        "143": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "邵阳",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市委书记",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-11071",
+      "keywords": {},
+      "fileName": "article-11071.txt",
+      "content": "通用汽车旗下有雪佛兰、别克及凯迪拉克等品牌；日本的汽车制造商常另设立新品牌对应顶级车市场，如本田汽车有Acura、日产汽车有Infiniti及丰田汽车有Lexus等。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "46": {
+          "entityName": "本田",
+          "entityType": "一般实体"
+        },
+        "57": {
+          "entityName": "日产",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "本田",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "日产",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-1153",
+      "keywords": {},
+      "fileName": "article-1153.txt",
+      "content": "裴徽的伯父裴虚己是唐睿宗之女霍国公主的驸马，裴徽的叔父裴竑是唐玄宗女新平公主的驸马，裴竑的儿子裴仿是唐代宗女永清公主的驸马，一门五驸马。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "16": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "19": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        },
+        "36": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "39": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        },
+        "56": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "59": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        },
+        "65": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-471",
+      "keywords": {},
+      "fileName": "article-471.txt",
+      "content": "第31届学院奖颁奖典礼于1959年4月6日在美国加利福尼亚州洛杉矶雷电华潘太及斯剧院举行，杰瑞·刘易斯、莫特·索尔、托尼·兰德尔}、鲍勃·霍普、大卫·尼文和劳伦斯·奥利弗共同担任主持人。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "58": {
+          "entityName": "托尼",
+          "entityType": "一般实体"
+        },
+        "72": {
+          "entityName": "大卫",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "大卫",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "托尼",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-170",
+      "keywords": {},
+      "fileName": "article-170.txt",
+      "content": "习近平在福建省工作17年间，彭丽媛的知名度比丈夫更高;。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "习近平",
+          "entityType": "一般实体"
+        },
+        "14": {
+          "entityName": "彭丽媛",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "彭丽媛",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "习近平",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-244",
+      "keywords": {},
+      "fileName": "article-244.txt",
+      "content": "学校校长是该基地的指挥官和高级军官。校长的职位通常由一名现役中将担任。校长大体上与地方院校的校长角色类似。同样地，校长负责监督学校的各个方面，包括军事训练、学术、体育、入学与基地的行政管理。学校是空军的直属单位，所以校长直接向空军参谋长负责。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "2": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "18": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "35": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "46": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "57": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "63": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "95": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "108": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-1845",
+      "keywords": {},
+      "fileName": "article-1845.txt",
+      "content": "前533年（鲁昭公九年）亓官氏与孔子结婚。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "12": {
+          "entityName": "亓官氏",
+          "entityType": "一般实体"
+        },
+        "16": {
+          "entityName": "孔子",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "孔子",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "亓官氏",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-4423",
+      "keywords": {},
+      "fileName": "article-4423.txt",
+      "content": "学校现在任校长是Joël",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "5": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-4952",
+      "keywords": {},
+      "fileName": "article-4952.txt",
+      "content": "第二次国共内战时期，1946年1月，刘秀峰任中共张家口市委书记兼张家口卫戍区政治委员，并且获民主推选为张家口市参议会议长。1946年10月，刘秀峰调任中共冀中区党委副书记、冀中军区副政治委员。1947年7月至9月，作为晋察冀代表，刘秀峰参加了全国土地会议，会后参加了中央土改工作团，进行土改试点，并且兼任中共定县县委书记。1948年6月，刘秀峰调任中共石家庄市委第一副书记（主持工作）。1949年4月起，刘秀峰担任中共石家庄市委书记兼市长。任内，刘秀峰参与领导了冀中及石家庄市的土地改革，恢复并发展生产，支援华北的解放战争。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "27": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        },
+        "176": {
+          "entityName": "石家庄",
+          "entityType": "一般实体"
+        },
+        "209": {
+          "entityName": "石家庄",
+          "entityType": "一般实体"
+        },
+        "212": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        },
+        "234": {
+          "entityName": "石家庄",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "石家庄",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市委书记",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5804",
+      "keywords": {},
+      "fileName": "article-5804.txt",
+      "content": "中华人民共和国建国前夕，受中共指派，范明赴西宁，争取当时还只有11岁的十世班禅对新政府的支持；并在1950年8月25日，帮助十世班禅回到塔尔寺。彭德怀曾打算让范明出任中共在乌鲁木齐的负责人；后中共又拟派他赴朝鲜，参加抗美援朝；但最终还是确定让他负责进军西藏的任务。不久，范明即出任中共西北局西藏工委书记、西北军区进藏部队司令员兼政委，西北军政委员会驻班禅行辕代表等职。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "72": {
+          "entityName": "彭德怀",
+          "entityType": "一般实体"
+        },
+        "167": {
+          "entityName": "西北军政委员会",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "西北军政委员会",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "彭德怀",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-7246",
+      "keywords": {},
+      "fileName": "article-7246.txt",
+      "content": "廖仲恺的夫人为同属国民党左派的何香凝。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "廖仲恺",
+          "entityType": "一般实体"
+        },
+        "15": {
+          "entityName": "何香凝",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "廖仲恺",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "何香凝",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-1807",
+      "keywords": {},
+      "fileName": "article-1807.txt",
+      "content": "李丹、方于夫妇从1958年至1984年翻译《悲惨世界》，这是中国第一套《悲惨世界》全译本，全部由人民文学出版社出齐（第一卷，1958年；第二卷，1959年；第三、四卷，1980年；第五卷，1984年）。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "李丹",
+          "entityType": "一般实体"
+        },
+        "3": {
+          "entityName": "方于",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "方于",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "李丹",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-10301",
+      "keywords": {},
+      "fileName": "article-10301.txt",
+      "content": "双方一度为此军事冲突，直到曹操进攻汉中郡的张鲁，威胁蜀地，刘备迅速和孙权协议以湘水平分荆南，武陵郡及零陵郡归刘，长沙郡及桂阳郡归孙鲁吕。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "13": {
+          "entityName": "曹操",
+          "entityType": "一般实体"
+        },
+        "29": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "曹操",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-6245",
+      "keywords": {},
+      "fileName": "article-6245.txt",
+      "content": "最初，学校沿袭长沙临大建制，由清华大学校长梅贻琦、北京大学校长蒋梦麟和南开大学校长张伯苓组成常务委员会共同管理校务。1938年12月21日，第98次常委会决议，决定由三校校长轮任常务委员会主席，任期一年，本学年由清华校长梅贻琦担任。后因蒋梦麟、张伯苓均在重庆任职，只有梅贻琦长期留于昆明，故没有实施轮任制度，一直由梅贻琦任主席，主导校务。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "3": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "18": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "28": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "38": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "85": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "108": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-394",
+      "keywords": {},
+      "fileName": "article-394.txt",
+      "content": "唐代和亲公主的身份，除宗室女外，还有驸马女儿、大臣女儿等。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "18": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-10116",
+      "keywords": {},
+      "fileName": "article-10116.txt",
+      "content": "大将多为陆军司令官，中将多为师团长，少将多为旅团长，中将、少将亦可担任兵种学校校长，大佐多为步兵联队长（相当于团长），中佐为骑兵、战车兵等联队长，少佐为大队长（相当于营长），中佐、少佐也可以是飞行战队长，大尉、中尉可担任中队长（相当于连长），中尉、少尉担任小队长（相当于排长），少尉为联队旗手，军曹、伍长担任分队长（相当于班长）。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "37": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "39": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-2022",
+      "keywords": {},
+      "fileName": "article-2022.txt",
+      "content": "2014年，杭州《政府工作报告》中提出，在2014年将推进富阳、临安撤市建区工作。2015年2月，除富阳外，临安撤市并区也正在进行中。张鸿铭指出，积极推动城市群和都市圈合作发展，“力争两区尽早获批”。从杭州民政局得知，临安撤市设区并未上报，临安要撤市设区至少在要等2年时间。2015年3月25日，临安市列入列入国家发改委中小城市综合改革试点，昌化镇列为重点试点单位。2015年5月12日，临安市入选2015年中国县域经济发展潜力百强县市，排名全国73位。中国创新强县排名16名。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "6": {
+          "entityName": "杭州",
+          "entityType": "一般实体"
+        },
+        "67": {
+          "entityName": "张鸿铭",
+          "entityType": "一般实体"
+        },
+        "101": {
+          "entityName": "杭州",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "杭州",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "张鸿铭",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-9239",
+      "keywords": {},
+      "fileName": "article-9239.txt",
+      "content": "二人在蒙古修炼武功之时，与江南七怪发生冲突，陈玄风杀死七怪中的“笑弥陀”张阿生，同时，梅超风的双眼也被江南七怪刺瞎。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "13": {
+          "entityName": "江南七怪",
+          "entityType": "一般实体"
+        },
+        "43": {
+          "entityName": "梅超风",
+          "entityType": "一般实体"
+        },
+        "51": {
+          "entityName": "江南七怪",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "梅超风",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "江南七怪",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-1966",
+      "keywords": {},
+      "fileName": "article-1966.txt",
+      "content": "骊戎男爵以骊姬嫁给晋献公，骊姬为晋献公生奚齐。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "骊姬",
+          "entityType": "一般实体"
+        },
+        "9": {
+          "entityName": "晋献公",
+          "entityType": "一般实体"
+        },
+        "13": {
+          "entityName": "骊姬",
+          "entityType": "一般实体"
+        },
+        "16": {
+          "entityName": "晋献公",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "骊姬",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "晋献公",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-292",
+      "keywords": {},
+      "fileName": "article-292.txt",
+      "content": "李国章于2002年底表示，1999年出任中大校长时，已经与科大签定联合声明，指两校学生若对对方院校开办的科目有兴趣，即可到对方学校上堂，但因时间表问题未能落实。2002年，中大校长金耀基及科大校长朱经武均认为两校可作深入协作，其中金曾在管理层召开内部会议咨询校内意见。朱亦曾透露，科大高层一致认同两校合作对双方有好处。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "22": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "63": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "88": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "96": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-7891",
+      "keywords": {},
+      "fileName": "article-7891.txt",
+      "content": "屠滽为成化二年（1466年）第三甲进士，任监察御史，巡按四川、湖广，为官有清名，勤于政事。历任右佥都御史、右都御史、左都御史。弘治十年（1497年），进兵部尚书，后调任吏部尚书，兼都察院御史，封太子太保。明武宗时，加封太子太傅，兼掌院事，继加封柱国。谥襄惠。乡人称“屠天官”。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "58": {
+          "entityName": "左",
+          "entityType": "一般实体"
+        },
+        "90": {
+          "entityName": "都察院",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "都察院",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "左",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-8293",
+      "keywords": {},
+      "fileName": "article-8293.txt",
+      "content": "董慧1938年1月加入中国共产党，1947年与潘汉年结婚;上海地方志。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "董慧",
+          "entityType": "一般实体"
+        },
+        "23": {
+          "entityName": "潘汉年",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "潘汉年",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "董慧",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-5770",
+      "keywords": {},
+      "fileName": "article-5770.txt",
+      "content": "万安国少年时明敏有姿貌，娶河南公主，拜驸马都尉。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "15": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "19": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-7429",
+      "keywords": {},
+      "fileName": "article-7429.txt",
+      "content": "在西尔佛总公司的决斗，因关都地方的七枚徽章的力量，与闪电鸟、火焰鸟合为一体，令牠变成邪恶的宝可梦，后被小智、小茂和小蓝打败，并得以从火箭兵团手上解放。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "51": {
+          "entityName": "小智",
+          "entityType": "一般实体"
+        },
+        "54": {
+          "entityName": "小茂",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "小茂",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "小智",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-841",
+      "keywords": {},
+      "fileName": "article-841.txt",
+      "content": "张坊平时外表严肃、不苟言笑。张坊掌校期间，金大附中通过募捐修建了教师宿舍，名为“八家村”，解决了教师住宿困难。在物价高涨、钱币不断贬值时，购买大米和食油分给教师。学校员工及家属有病无钱就医，由校长签字即可送往鼓楼医院免费诊治。这些做法都大大提高了学校教师的凝聚力和自豪感。1934年，张坊校长又采取募捐方式兴建了全国中学都少有的近千平方米的体育馆。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "81": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "96": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "123": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "144": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-467",
+      "keywords": {},
+      "fileName": "article-467.txt",
+      "content": "“名家论坛”是中国农业大学校园文化的精英品牌项目，自创办以来，已先后邀请到各路“名家”走上讲坛，发表演讲。其中包括DNA双螺旋结构发现者、诺贝尔奖获得者詹姆斯。沃森，“杂交水稻之父”袁隆平院士，石元春院士，著名学者于丹、余秋雨，原中国驻联合国大使、外交家王英凡先生，央视著名节目主持人白岩松、敬一丹、陈鲁豫、曾子墨、阿丘、黄健翔、韩乔生，著名企业家李开复、潘石屹、张朝阳，文艺界人士牛群、顾长卫、蒋雯丽，音乐家俞丽拿，新东方创始人俞敏洪、王强、徐小平，美国加州大学戴维斯分校校长Larry",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "209": {
+          "entityName": "新东方",
+          "entityType": "一般实体"
+        },
+        "215": {
+          "entityName": "俞敏洪",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "新东方",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "俞敏洪",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-8362",
+      "keywords": {},
+      "fileName": "article-8362.txt",
+      "content": "镜平学校合校初，由余倩娴女士任校长，她俭朴负责。1950年8月，何贤先生接任校长，并聘请黄煜堂先生为教导主任，他按实际对校务进行全面改革。在管理方面：建立师生各方面组织，如设置教导小组、科组、归程线、劳动队等，加强了学校工作的计划性。在教学方面：坚持以课堂教学为主导，",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "2": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "15": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "38": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "108": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-8252",
+      "keywords": {},
+      "fileName": "article-8252.txt",
+      "content": ":方素素与香玉山之子，被寇仲及徐子陵收为义子，娶徐子陵之女为妻。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "2": {
+          "entityName": "素素",
+          "entityType": "一般实体"
+        },
+        "5": {
+          "entityName": "香玉山",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "素素",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "香玉山",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-1278",
+      "keywords": {},
+      "fileName": "article-1278.txt",
+      "content": "后来，徐恒之袭封枝江县侯，早卒无子，徐聿之的儿子徐孝嗣袭爵，徐孝嗣娶宋孝武帝的女儿刘修明（南阳公主的侄女）。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "24": {
+          "entityName": "徐孝嗣",
+          "entityType": "一般实体"
+        },
+        "30": {
+          "entityName": "徐孝嗣",
+          "entityType": "一般实体"
+        },
+        "41": {
+          "entityName": "刘修明",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘修明",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "徐孝嗣",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-9717",
+      "keywords": {},
+      "fileName": "article-9717.txt",
+      "content": "在完成一系列的任务之后，麦克斯因接受洁娜的邀请参加了奶昔派对而爽了参加罗布和梅根为他举行的欢送派对的约定，导致与好友的关系出现僵局。而麦克斯的父亲因听取了麦克斯之前的建议，在当天又宣布他辞掉了工作并且打算开始自己的事业。这也就意味著麦克斯最终不会搬家。第二天，麦克斯发现他的好友罗布和梅根因之前的任务被特洛伊·麦克金蒂和多布斯盯上了，同时全校学生都将面临校长的处罚。最后，麦克斯决定挺身而出，解救了罗布和梅根以及全校学生，并且最终打败了特洛伊·麦克金蒂和多布斯将他们扔进了垃圾箱，同时阻止了校长金德雷克破坏动物救助站的行为，以及使其因私揽学校预算而被开除。影片最后，麦克斯在社区继续骑车送报纸并且被邪恶的冰淇淋小贩追逐。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "177": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "245": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "269": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-8366",
+      "keywords": {},
+      "fileName": "article-8366.txt",
+      "content": "她回国以后，她通过公开言论再推动女子教学，1889年的女子教育法确保了一个府县必须要有一间女子高中，不过，这些女子高中的质素始终因政府政策的干预而不及男子高中，于是津田梅子1900年在东京的曲町创立女子英学塾，是类似类似美国卫斯理学院的私立女子名校，提供公平的教育机会予女子，津田英学塾提倡博雅教育。由于面对资金短缺，因此津田梅子需尽力筹措经费，经过她多番奔走，1903年女子英学塾终取得官方支肋。而在1905年，津田梅子成为首任东京基督教女青年会的主席。在1915年，政府褒奖津田梅子在推动女子教育的贡献，授予她勲六等宝冠章（当时较高勋等的勋章保留给皇族、华族女子或宫中女官。战后才有女子学校校长获颁勋三等甚至勋二等宝冠章的例子，身为女子教育先驱的津田梅子反而只得到勋六等）。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "295": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "297": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-3052",
+      "keywords": {},
+      "fileName": "article-3052.txt",
+      "content": "1949年3月，毛远耀奉中共中央命令从辽宁旅大率干部大队进关南下，到达天津。9月，毛远耀等到达湖南，他先后任长沙市副市长、衡阳军管会副主任、中共衡阳市委书记、衡阳市人民政府市长及中共湘南区党委常委。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "35": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        },
+        "58": {
+          "entityName": "市长",
+          "entityType": "一般实体"
+        },
+        "86": {
+          "entityName": "市长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "天津",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市长",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-4291",
+      "keywords": {},
+      "fileName": "article-4291.txt",
+      "content": "新五泰国民运动中心是台湾新北市第8座国民运动中心，为地下2层、地上5层的建筑物，于2013年7月4日动工，已于2015年7月19日完工试营启用，于同年8月5日正式启用，里面有各式各样的运动设施可以优先体验，新北市长朱立伦鼓励每位市民能够善加利用。并且还获颁国家建设卓越奖公共建设类金质奖及中华民国内政部候选钻石级的绿建筑证明。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "12": {
+          "entityName": "新北",
+          "entityType": "一般实体"
+        },
+        "103": {
+          "entityName": "新北",
+          "entityType": "一般实体"
+        },
+        "107": {
+          "entityName": "朱立伦",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "新北",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "朱立伦",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-799",
+      "keywords": {},
+      "fileName": "article-799.txt",
+      "content": "中统局局长由国民党秘书长兼任，而由副局长负实际责任。陈立夫、张厉生、朱家骅先后担任过局长，徐恩曾、叶秀峰、顾建中，邹学峻、季源溥等先后担任过副局长。中统以各级国民党党部为活动基地，在省市党部设调查统计室，在省以下党部设专人负责“调查统计”，在文化团体和大专院校、重点中学广泛建立了“党员调查网”，进行各种特务活动。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "中统",
+          "entityType": "一般实体"
+        },
+        "26": {
+          "entityName": "陈立夫",
+          "entityType": "一般实体"
+        },
+        "74": {
+          "entityName": "中统",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "中统",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "陈立夫",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5010",
+      "keywords": {},
+      "fileName": "article-5010.txt",
+      "content": "小行星317以亚历山大大帝的第一任妻子罗克珊娜命名。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "7": {
+          "entityName": "亚历山大大帝",
+          "entityType": "一般实体"
+        },
+        "19": {
+          "entityName": "罗克珊娜",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "亚历山大大帝",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "罗克珊娜",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-9057",
+      "keywords": {},
+      "fileName": "article-9057.txt",
+      "content": "有传因此邓萃雯介入江华和麦洁文婚姻当第三者，后自动退出。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "9": {
+          "entityName": "江华",
+          "entityType": "一般实体"
+        },
+        "12": {
+          "entityName": "麦洁文",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "江华",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "麦洁文",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-5687",
+      "keywords": {},
+      "fileName": "article-5687.txt",
+      "content": "张平的政治转折发生在1980年；他获推荐到中共安徽省委党校理论班学习。为期一年的理论学习结束之后，回到巢县即被安排为县工商局的副局长；两个月后，被调入安徽省人民政府办公厅，为省领导当秘书。在安徽省政府办公厅，张平用了五年的时间，从副科级干部被提升为副厅级的领导。自1985年12月，张平历任安徽省计委副主任、主任，芜湖市委书记、代市长、市长，安徽省省长助理，副省长、省政府秘书长等职；1999年8月任中共安徽省委常委、副省长；2003年晋升为安徽省委副书记。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "157": {
+          "entityName": "芜湖",
+          "entityType": "一般实体"
+        },
+        "165": {
+          "entityName": "市长",
+          "entityType": "一般实体"
+        },
+        "168": {
+          "entityName": "市长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "芜湖",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市长",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-542",
+      "keywords": {},
+      "fileName": "article-542.txt",
+      "content": "1997年8月至2000年9月，任中共湘西土家族苗族自治州委委员、常委、组织部部长。2000年9月至2003年2月，任中共湘西土家族苗族自治州委副书记。（其间，2001年3月至2002年1月，在中共中央党校一年制中青年干部培训班学习。）2003年2月至2008年3月，任中共湘西土家族苗族自治州委书记。（其间，2001年3月至2004年1月，在中共中央党校在职研究生班经济管理专业学习，获研究生学历）2008年3月至2012年2月，任中共邵阳市委书记。（其间，2010年3月至7月，在中共中央党校中青年干部培训班学习。）2012年2月至2013年1月，任中共衡阳市委书记、衡阳警备区党委第一书记。2013年1月至4月，任湖南省政协副主席、中共衡阳市委书记。2013年4月起，专任湖南省政协副主席。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "219": {
+          "entityName": "邵阳",
+          "entityType": "一般实体"
+        },
+        "221": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        },
+        "281": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        },
+        "323": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "邵阳",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市委书记",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6526",
+      "keywords": {},
+      "fileName": "article-6526.txt",
+      "content": "1950年，西南人民革命大学（校长为刘伯承，2010年党委全委会重新审定建校时间为1950年）。1953年，以西南人民革命大学为基础，合并重庆大学、四川大学、贵州大学、云南大学、重庆财经学院的法律院（系），成立西南政法学院（首任院长：原东北抗日联军第二路军总指挥周保中将军）。“文革”期间停办。1977年5月学校经中央批准恢复招生。1978年2月28日经国务院批准为全国重点大学，是当时司法部部属政法院校中唯一的重点大学。1995年，更名为西南政法大学。2000年，由司法部直属划转重庆市人民政府管理，实行中央与地方共建，以地方为主的管理模式。2008年成为教育部、重庆市重点建设的高校。2012年10月24日，教育部与重庆市人民政府正式签订共建西南政法大学协议，标志着西南政法大学成为重庆市第一所教育部参与的部市共建全国重点大学。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "15": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "154": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5817",
+      "keywords": {},
+      "fileName": "article-5817.txt",
+      "content": "成吉思汗将其众多的妻妾分成四个斡耳朵：大斡耳朵、第二、第三、第四斡耳朵，分别由孛儿帖、忽兰、也遂和也速干管领。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "成吉思汗",
+          "entityType": "一般实体"
+        },
+        "49": {
+          "entityName": "也速干",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "也速干",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "成吉思汗",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-6628",
+      "keywords": {},
+      "fileName": "article-6628.txt",
+      "content": "季度结局为《解谜游戏》，反派角色詹姆斯·莫里亚蒂教授首度登场，设计要求福尔摩斯在时限内侦破多宗看似不相连的案件。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "16": {
+          "entityName": "詹姆斯·莫里亚蒂",
+          "entityType": "一般实体"
+        },
+        "35": {
+          "entityName": "福尔摩斯",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "福尔摩斯",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "詹姆斯·莫里亚蒂",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-600",
+      "keywords": {},
+      "fileName": "article-600.txt",
+      "content": "」帝曰：「朕惟侄女二人，不忍遽加降夺，其称公主驸马如故。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "21": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "23": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-6232",
+      "keywords": {},
+      "fileName": "article-6232.txt",
+      "content": "」大荒西经有「帝俊妻常羲」，世本王侯大夫谱亦有「帝喾次妃，娵訾氏之女曰常仪」，常仪即常羲也。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "7": {
+          "entityName": "帝俊",
+          "entityType": "一般实体"
+        },
+        "35": {
+          "entityName": "常仪",
+          "entityType": "一般实体"
+        },
+        "39": {
+          "entityName": "常仪",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "常仪",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "帝俊",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-7050",
+      "keywords": {},
+      "fileName": "article-7050.txt",
+      "content": "2008年10月，2013年第六届东亚运动会组织委员会经中国国务院批准成立；而该组委会于2009年4月25日在天津成立；中国国家体育总局局长、中国奥委会主席刘鹏担任组委会主席；天津市市长黄兴国担任执行主席；兼任国家体育总局副局长及中国奥委会副主席于再清、天津市副市长张俊芳等担任副主席，而张俊芳也兼任组委会秘书长。该组委会办公室设于天津市南开区红旗南路582号仁爱濠景国际大厦B座16层。2012年12月14日，第六届东亚运动会组委会在天津市政府召开新闻发布会，宣布由搜狐体育承建的第六届东亚运动会官方网站上线。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "55": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        },
+        "88": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        },
+        "93": {
+          "entityName": "黄兴国",
+          "entityType": "一般实体"
+        },
+        "127": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        },
+        "166": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        },
+        "218": {
+          "entityName": "天津",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "天津",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "黄兴国",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-4812",
+      "keywords": {},
+      "fileName": "article-4812.txt",
+      "content": "五户丝食邑，诸王后妃公主驸马在汉地的食邑，分封者一般不驻食邑，不干涉食邑的民政，当地居民承担对诸王的贡赋，诸王的王号一般说明他的食邑的位置。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "10": {
+          "entityName": "公主",
+          "entityType": "一般实体"
+        },
+        "12": {
+          "entityName": "驸马",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "公主",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "驸马",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-6438",
+      "keywords": {},
+      "fileName": "article-6438.txt",
+      "content": "王平生于湖北省阳新县三溪口镇大湖地村一个农民家庭。1926年在本乡参加组织农民协会，任乡农协委员和村农协负责人，组织群众开展革命活动。1930年5月，王平参加中国工农红军，同年9月加入中国共产党，历任红三军团第八军一纵队战士，纵队宣传队副队长，机关枪连政治指导员，团党总支书记，师教导大队政治委员，参与进攻长沙的作战。1933年，红军整编后，任红三军团第3师第9团政治教导员，红4师第11团政治委员兼政治处主任，参加历次反围剿战争。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "37": {
+          "entityName": "农民协会",
+          "entityType": "一般实体"
+        },
+        "92": {
+          "entityName": "中国共产党",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "农民协会",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "中国共产党",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-9813",
+      "keywords": {},
+      "fileName": "article-9813.txt",
+      "content": "加蓬实行三权分立，总统是国家元首和武装力量最高统帅，有权解散议会，任命总理，主持部长会议。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "12": {
+          "entityName": "国家元首",
+          "entityType": "一般实体"
+        },
+        "17": {
+          "entityName": "武装力量",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "武装力量",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "国家元首",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5023",
+      "keywords": {},
+      "fileName": "article-5023.txt",
+      "content": "孙丽（声：野村惠里）-原名孙尚香，是孙权的妹妹，也是刘备的妻子之一。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "13": {
+          "entityName": "孙尚香",
+          "entityType": "一般实体"
+        },
+        "26": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "孙尚香",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-4760",
+      "keywords": {},
+      "fileName": "article-4760.txt",
+      "content": "1920年8月，更改校名为广东省立第一甲种工业学校，黄巽为校长。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "23": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "29": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-100",
+      "keywords": {},
+      "fileName": "article-100.txt",
+      "content": "2015年中国国民党主席补选朱立伦当选第七任主席，并在5月与中国共产党中央委员会总书记习近平在北京举行朱习会。7月洪秀柱在国民党全国代表大会上成为国民党总统候选人。10月17日国民党中央党部召开临时全国代表大会上，决定废止洪秀柱提名，改征召时任新北市市长兼党主席朱立伦参选总统。2016年中华民国总统选举落败后朱立伦宣布辞去党主席，同时因参选基隆立委落败的郝龙斌也请辞副主席，由另一副主席黄敏惠（前嘉义市市长）代理党主席。2016年中国国民党主席补选，洪秀柱当选国民党创党史上首位民选女性党主席。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "中国国民党",
+          "entityType": "一般实体"
+        },
+        "57": {
+          "entityName": "洪秀柱",
+          "entityType": "一般实体"
+        },
+        "111": {
+          "entityName": "洪秀柱",
+          "entityType": "一般实体"
+        },
+        "216": {
+          "entityName": "中国国民党",
+          "entityType": "一般实体"
+        },
+        "226": {
+          "entityName": "洪秀柱",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "中国国民党",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "洪秀柱",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6371",
+      "keywords": {},
+      "fileName": "article-6371.txt",
+      "content": "基尔波诺斯在1915年加入俄军，第一次世界大战时在军中作军医。1917年二月革命时期，因受到士兵拥戴，被选为所在部队的士兵委员会主席。1918年5月加入苏共。参加过苏联国内战争，在红军中历任营长、团参谋长、副团长、团长。1927年从伏龙芝军事学院毕业。1934至1939年任喀山步兵学校校长。苏芬战争期间，任第70步兵师师长，由于战绩突出，于1940年获苏联英雄称号，并升任列宁格勒军区司令。1941年接替朱可夫担任基辅特别军区司令。同年获上将军衔，并在苏共18大上当选中央候补委员。苏德战争爆发后，任西南方面军司令。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "141": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "143": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-3549",
+      "keywords": {},
+      "fileName": "article-3549.txt",
+      "content": "2013年原上海市长乐学校重组为小学初中九年一贯制的实验学校，定名为“上海市位育实验学校”，由位育初级中学校长龙世明出任实验学校校长。该校与位育初中实行统一领导与管理，其初中阶段教学模式也与位育初中并轨。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "11": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "28": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "42": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "52": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "62": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "64": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-9878",
+      "keywords": {},
+      "fileName": "article-9878.txt",
+      "content": "2009年8月，宁波市政府批文同意宁外性质为全民事业单位，属宁波市教育局直属学校。办学地址搬迁到宁波东钱湖旅游度假区环湖南路258号，与效实中学东钱湖分校合并，重新实行“两块牌子、一套班子”管理，为寄宿制完全中学，现任校长为裘建浩。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "38": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "109": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-10364",
+      "keywords": {},
+      "fileName": "article-10364.txt",
+      "content": "李国荣14岁入伍，曾二次被军方栽培以公费方式派往英国诺丁汉大学教育学院与美国军方最高层次之攻读学位。回国后，历任中华民国黄埔军官学校指挥官、中正国防干部预备学校校长，2009年元旦晋升为少将，目前国军基层主力干部多数为将军门生，极具指标性作用。退役后，强调两岸中国人应以和平统一方式，再创造华夏之光",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "64": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "78": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "80": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-2712",
+      "keywords": {},
+      "fileName": "article-2712.txt",
+      "content": "由于太平天国禁止鸦片贸易（洪秀全曾作《戒鸦片诗》：“烟枪即炮枪，自打自受伤。多少英雄汉，弹死在高床。”）加上清政府与英、法、俄签署《北京条约》后，太平天国威胁到各国条约利益，西方各国对太平天国运动转向反对。1862年1月-6月，李秀成太平军与英法联军在上海决战。谭绍光太平军从吴淞包抄浦东，英法联军在高桥镇",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "92": {
+          "entityName": "太平天国运动",
+          "entityType": "一般实体"
+        },
+        "114": {
+          "entityName": "李秀成",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "太平天国运动",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "李秀成",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5592",
+      "keywords": {},
+      "fileName": "article-5592.txt",
+      "content": "当记者问及其第二任妻子、北京市昂道律师事务所（原名“北京市开来律师事务所”）原主任律师谷开来时，薄熙来对夫人帮助打黑表示感谢》头版。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "43": {
+          "entityName": "谷开来",
+          "entityType": "一般实体"
+        },
+        "48": {
+          "entityName": "薄熙来",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "谷开来",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "薄熙来",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-3595",
+      "keywords": {},
+      "fileName": "article-3595.txt",
+      "content": "《有个人》专辑亦是为于同年上半年开始的《友个人99世界巡回演唱会》在某种程度上造势，单曲的歌词被认为是张学友同罗美薇相恋到结婚的一个写照。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "51": {
+          "entityName": "张学友",
+          "entityType": "一般实体"
+        },
+        "55": {
+          "entityName": "罗美薇",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "张学友",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "罗美薇",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-5800",
+      "keywords": {},
+      "fileName": "article-5800.txt",
+      "content": "伊琳娜与丈夫利奥四世有独生子君士坦丁六世。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "伊琳娜",
+          "entityType": "一般实体"
+        },
+        "6": {
+          "entityName": "利奥四世",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "伊琳娜",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "利奥四世",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-2155",
+      "keywords": {},
+      "fileName": "article-2155.txt",
+      "content": "在刘备南逃荆州时，协助刘备对抗曹操并把新野让给刘备管理。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        },
+        "11": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        },
+        "15": {
+          "entityName": "曹操",
+          "entityType": "一般实体"
+        },
+        "23": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "曹操",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-8580",
+      "keywords": {},
+      "fileName": "article-8580.txt",
+      "content": "学校在林文庆校长的主持下，以“自强不息，止于至善”为校训，致力于行政与学科建设，为进一步消除第一次学潮的影响，研究解决学校的发展问题，学校当局重金礼聘知名教授学者，规定：教授月薪最高可达400元，讲师200元，助教可达150元。一时群贤毕至、名流云集。林语堂于1926年5月到厦大，9月就任厦大文科主任，继而，林请来了鲁迅、",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "6": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "59": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "67": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-8744",
+      "keywords": {},
+      "fileName": "article-8744.txt",
+      "content": "安琪媛，安向东之女，她和林天佑相爱却遭到婆婆的破坏，最终和林天佑离婚，本来不再相信爱情，因为与齐霁多处相处后，两人培育出感情，却发现齐霁的生母是自己的后母。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "安琪媛",
+          "entityType": "一般实体"
+        },
+        "47": {
+          "entityName": "齐霁",
+          "entityType": "一般实体"
+        },
+        "66": {
+          "entityName": "齐霁",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "安琪媛",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "齐霁",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-3692",
+      "keywords": {},
+      "fileName": "article-3692.txt",
+      "content": "217年，刘备遣张飞、马超、吴兰等屯下辩；曹操遣曹洪征讨，以曹休为骑都尉，曹洪为军事统领。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "刘备",
+          "entityType": "一般实体"
+        },
+        "21": {
+          "entityName": "曹操",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘备",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "曹操",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-8817",
+      "keywords": {},
+      "fileName": "article-8817.txt",
+      "content": "刘推官机警有才，监禁皮氏、赵昂等人，却暗中派人监听他们的对谈，发现真实，于是公正判决，苏三奇冤得雪，罪犯正法，贪官知县被撤职查办，苏三有幸，传奇般地同王景隆团聚，与景隆之妻以姊妹相称，非常和乐。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "43": {
+          "entityName": "苏三",
+          "entityType": "一般实体"
+        },
+        "65": {
+          "entityName": "苏三",
+          "entityType": "一般实体"
+        },
+        "75": {
+          "entityName": "王景隆",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "苏三",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "王景隆",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-6403",
+      "keywords": {},
+      "fileName": "article-6403.txt",
+      "content": "成化十二年，登进士，授山东邹县知县，后改邹平县知县，后授陕西道监察御史。弘治九年，授陕西按察使司副使。弘治十四年，升陕西按察使。弘治十七年，授河南布政司右布政使，同年改山东右布政使、陕西左布政使。正德元年，授都察院右副都御史，巡抚陕西等处地方。正德二年，授大理寺卿，正德四年，改刑部左侍郎。正德六年，授都察院右都御史，总制陕西延绥宁夏甘肃等处军务。正德八年去世，赠太子少保、刑部尚书。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "93": {
+          "entityName": "左",
+          "entityType": "一般实体"
+        },
+        "104": {
+          "entityName": "都察院",
+          "entityType": "一般实体"
+        },
+        "141": {
+          "entityName": "左",
+          "entityType": "一般实体"
+        },
+        "151": {
+          "entityName": "都察院",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "都察院",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "左",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-5357",
+      "keywords": {},
+      "fileName": "article-5357.txt",
+      "content": "魏宏，山东沂南人。1970年11月参加工作，1973年6月加入中国共产党。长沙铁道兵学院（现并入中国人民解放军国防科技大学）政治系毕业，西南财经大学经济系研究生在职研究生学历，四川省委党校经济学专业研究生毕业。曾任四川雅安市委书记，中共四川省委常委，省委组织部部长，省委副书记，四川省人民政府副省长，党组副书记，四川行政学院院长，常务副省长，代省长，省长，中共第十六大、十七大代表。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "37": {
+          "entityName": "长沙",
+          "entityType": "一般实体"
+        },
+        "111": {
+          "entityName": "市委书记",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "长沙",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "市委书记",
+            "entityType": "一般实体"
+          },
+          "relationship": "地方领导"
+        }
+      ]
+    },
+    {
+      "title": "article-2843",
+      "keywords": {},
+      "fileName": "article-2843.txt",
+      "content": "毛新宇，谱名毛世新，毛泽东之孙，毛岸青与邵华之子。籍贯中国湖南湘潭，生于北京。他于2010年晋升为中国人民解放军少将，是目前解放军中最年轻的少将，也是第一位1970年代出生的少将。他还是中国共产党党员、中国人民政治协商会议全国委员会委员、中华全国青年联合会常委、北京市西城区政协委员，中国人民解放军军事科学院战争理论和战略研究部副部长。对于晋升少将和一系列荣誉性头衔，毛新宇坦承其中有家庭因素。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "93": {
+          "entityName": "中国共产党",
+          "entityType": "一般实体"
+        },
+        "119": {
+          "entityName": "中华全国青年联合会",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "中华全国青年联合会",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "中国共产党",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-3074",
+      "keywords": {},
+      "fileName": "article-3074.txt",
+      "content": "此后她主演了《安安送米》、《刘翠屏哭井》、《丁香割肉》、《冯奎卖妻》、《桃花庵》、《珍珠衫》、《花为媒》、《马寡妇开店》、《杨三姐告状》、《四劝》等戏，还新排演了《小二黑结婚》、《梁山伯与祝英台》、《牛郎织女》、《哭长城》、《卓文君》、《小女婿》、《救急包》、《妇女代表》等剧目。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "90": {
+          "entityName": "梁山伯",
+          "entityType": "一般实体"
+        },
+        "94": {
+          "entityName": "祝英台",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "梁山伯",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "祝英台",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-429",
+      "keywords": {},
+      "fileName": "article-429.txt",
+      "content": "2008年7月21日，梁朝伟和交往二十多年的女演员刘嘉玲在藏传佛教国家不丹举行婚礼。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "11": {
+          "entityName": "梁朝伟",
+          "entityType": "一般实体"
+        },
+        "25": {
+          "entityName": "刘嘉玲",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "刘嘉玲",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "梁朝伟",
+            "entityType": "一般实体"
+          },
+          "relationship": "夫妻"
+        }
+      ]
+    },
+    {
+      "title": "article-880",
+      "keywords": {},
+      "fileName": "article-880.txt",
+      "content": "战前，孟达写信给诸葛亮，同意助蜀，且预言司马懿不会前来。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "8": {
+          "entityName": "诸葛亮",
+          "entityType": "一般实体"
+        },
+        "20": {
+          "entityName": "司马懿",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "诸葛亮",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "司马懿",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    },
+    {
+      "title": "article-4854",
+      "keywords": {},
+      "fileName": "article-4854.txt",
+      "content": "与此同时，校长和发展商合作，打算将学校所在的土地低价卖给发展商。华英雄得悉后，决定团结村民和三大民族阻止校长的计划。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "17": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "52": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-819",
+      "keywords": {},
+      "fileName": "article-819.txt",
+      "content": "张定璠幼时先后就读于江西陆军测绘学校、武昌陆军预备学校、保定军官学校工兵科。毕业后进入江西第四军任连长，1918年升任军参谋。1919年，在粤军第一路军司令黄大伟麾下任参谋。1922年，担任参谋长兼第七团团长，后任广西第一师师长。1925年，担任黄埔军官学校办公厅主任。北伐期间，任总司令部参谋处长。攻克南昌后，担任过江西省政府委员、政治会议委员、江西省警察厅厅长、南昌市市长等职。1927年任东路前敌总指挥部参谋长，其后又担任淞沪卫戍司令部参谋长并兼第十三军军长。同年9月至1929年期间，任上海特别市市长。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "16": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "25": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "32": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "127": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "132": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "主任",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-6378",
+      "keywords": {},
+      "fileName": "article-6378.txt",
+      "content": "郝又明，该校创始人，现任校长，自1998年创办学校并担任校长至今，获得“朝阳教育家”的称号。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "12": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        },
+        "23": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "28": {
+          "entityName": "校长",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "校长",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-628",
+      "keywords": {},
+      "fileName": "article-628.txt",
+      "content": "在第二次世界大战之前移居到美国的欧洲建筑师主导建筑学的国际样式。或许最具有影响力的移民就是密斯·凡·德·罗及格罗彼乌斯。两位是德国的著名设计学校包豪斯的前主任。根据几何学形式,他们大厦的样式被称赞了作为纪念碑对美国公司生活和被谑称为\"玻璃箱子\"。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "70": {
+          "entityName": "学校",
+          "entityType": "一般实体"
+        },
+        "77": {
+          "entityName": "主任",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "学校",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "主任",
+            "entityType": "一般实体"
+          },
+          "relationship": "组织运动领导"
+        }
+      ]
+    },
+    {
+      "title": "article-4302",
+      "keywords": {},
+      "fileName": "article-4302.txt",
+      "content": "贱岳之战是在1583年于近江国贱岳附近的一场战役，表面上因为是决定织田氏的继承人的问题发生冲突引起的，但是实际上是羽柴秀吉和柴田胜家的织田氏内权力争夺战，由于佐久间盛政冒然出兵，打乱了柴田胜家的部署，最终由丰臣秀吉取得胜利，奠定了秀吉统一日本的基础。",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "62": {
+          "entityName": "柴田胜家",
+          "entityType": "一般实体"
+        },
+        "92": {
+          "entityName": "柴田胜家",
+          "entityType": "一般实体"
+        },
+        "103": {
+          "entityName": "丰臣秀吉",
+          "entityType": "一般实体"
+        }
+      },
+      "relationships": [
+        {
+          "entity1": {
+            "entityName": "柴田胜家",
+            "entityType": "一般实体"
+          },
+          "entity2": {
+            "entityName": "丰臣秀吉",
+            "entityType": "一般实体"
+          },
+          "relationship": "竞争关系"
+        }
+      ]
+    }
+  ]
+}

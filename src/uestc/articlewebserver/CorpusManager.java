@@ -6,8 +6,8 @@
 package uestc.articlewebserver;
 
 import java.io.File;
-import java.util.Map;
-import java.util.TreeMap;
+import java.util.ArrayList;
+import java.util.List;
 import nlpevaluation.corpus.CategorizedCorpus;
 import nlpevaluation.corpus.Corpus;
 import nlpevaluation.corpus.CorpusType;
@@ -22,30 +22,52 @@ import nlpevaluation.corpus.SentimentCorpus;
 
 /**
  *
- * @author chenzheng
+ * @author UESTC1010
  */
 public class CorpusManager {
 
     private String corpusRoot;
-    private Map<String, Corpus> corpusMap = new TreeMap<>();
+//    private Map<String, Corpus> corpusMap = new TreeMap<>();
+    private List<String> corpusList = new ArrayList<>();
 
     public CorpusManager() {
         corpusRoot = Properties.getProperties().getProperty("corpusRoot");
         loadCorpusList();
     }
 
-    public Map<String, Corpus> getCorpusMap() {
-        return corpusMap;
+    public List<String> getCorpusList() {
+        if (corpusList.isEmpty()) {
+            loadCorpusList();
+        }
+        return corpusList;
     }
 
-    private void loadCorpusList() {
-        corpusMap.clear();
+    public Corpus getCorpus(String CorpusName) {
         File corpusRootDir = new File(corpusRoot);
         if (corpusRootDir.isDirectory()) {
             for (File corpusFile : corpusRootDir.listFiles()) {
                 if (corpusFile.isFile()
                         && (corpusFile.getName().endsWith(".json") || corpusFile.getName().endsWith(".Json") || corpusFile.getName().endsWith(".JSON"))) {
-                    corpusMap.put(corpusFile.getName().substring(0, corpusFile.getName().length() - 5), loadCorpus(corpusFile));
+//                    corpusMap.put(corpusFile.getName().substring(0, corpusFile.getName().length() - 5), loadCorpus(corpusFile));
+                    if (CorpusName.equalsIgnoreCase(corpusFile.getName().substring(0, corpusFile.getName().length() - 5))) {
+                        return loadCorpus(corpusFile);
+                    }
+                }
+            }
+        }
+
+        return null;
+    }
+
+    private void loadCorpusList() {
+        corpusList.clear();
+        File corpusRootDir = new File(corpusRoot);
+        if (corpusRootDir.isDirectory()) {
+            for (File corpusFile : corpusRootDir.listFiles()) {
+                if (corpusFile.isFile()
+                        && (corpusFile.getName().endsWith(".json") || corpusFile.getName().endsWith(".Json") || corpusFile.getName().endsWith(".JSON"))) {
+//                    corpusMap.put(corpusFile.getName().substring(0, corpusFile.getName().length() - 5), loadCorpus(corpusFile));
+                    corpusList.add(corpusFile.getName().substring(0, corpusFile.getName().length() - 5));
                 }
             }
         }

@@ -1,0 +1,2904 @@
+{
+  "entityCountTotal": 250,
+  "entityCountUnique": 182,
+  "entityCountPerArticle": 2.5,
+  "entities": [
+    {
+      "entityName": "李鹏",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "宁夏",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "华金·阿尔穆尼亚",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "莫斯科市",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "朱镕基",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "武汉市",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "王振昌",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "乌鲁木齐",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "欧洲",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "禹州",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "台湾",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "陈建军",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "红嫂",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "褚时健",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "香港特区政府",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "中华全国妇女联合会",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "思南县",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "老君庙煤矿",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "刘加文",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "庄维汉",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "莎阿代提·哈米提",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "王",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "许广平",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "郑州煤炭学院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "广东省兽医防疫检疫站",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "张国伟",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "国家技术监督局",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "新兴",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "江",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "宋健",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "阿拉法特",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "李岚清",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "秦艺源",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "广东省农业厅",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "艾琳",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "济南",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "陕西省",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "深圳",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "北大荒",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "卢日科夫",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "汤老",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "伊拉克",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "维也纳",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "小泽",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "国际奥委会",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "克林顿",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "方城县公安局法医院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "羽田",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "刘",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "河南大学",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "荷兰",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "李瑞环",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "许家坝",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "万安县",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "李国安",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "南海",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "富润集团",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "加州",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "邹家华",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "罗伯特·鲁宾",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "水利部",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "北京",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "南非",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "阿凡提大叔美食城",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "赫尔辛基",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "刘亮明",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "香港",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "汤",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "郑州",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "胡锦涛",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "国务院新闻办",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "中央民族学院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "顾正龙",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "英国",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "周勇",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "多瑙河",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "埃里卡特",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "世界卫生组织",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "埃及",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "朱光亚",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "中国交响乐团",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "温家宝",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "塔拉特",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "吴敦夫",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "宛城区委",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "李凯亭",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "新华社",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "姚柏林",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "卢卡申科",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "张国文",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "中央歌剧芭蕾舞剧院交响乐团",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "邵建武",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "施特劳斯",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "法国",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "广州",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "山西省",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "中共贵州省委",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "鹿永建",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "鲁迅博物馆",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "王国栋",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "运河",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "安南",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "郑南",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "欧佩克",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "哈佛大学",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "高道强",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "顾俊",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "莫斯科",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "马夫罗季",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "挪威",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "全国人大常委会",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "赵秀娟",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "券桥乡",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "豫南农专",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "郑剑",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "河南信阳地区",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "约翰·施特劳斯",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "李水清",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "瑞士",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "翟景升",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "瑞典",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "中共中央政治局",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "石家庄",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "法老王",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "信阳师院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "陈吉芳",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "多哥",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "云南省人民检察院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "王美珍",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "亚洲",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "农业部",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "中国",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "许昌",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "加拿大",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "中国民主促进会",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "细川",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "丹麦",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "湖南",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "尉健行",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "美国",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "汤佩松",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "南河村",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "张铁柱",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "华盛顿",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "芬兰",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "西非开发银行",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "联合国",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "周志方",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "泰岛",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "宋登华",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "云南",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "东亚",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "广东",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "联合国销毁伊拉克化学、生物和核武器特别委员会",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "哈米提·铁木尔",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "王家学院",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "克莱",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "国家文物局",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "巴黎",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "几内亚",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "德国",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "国务院信息化工作领导小组办公室",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "俄罗斯",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "郄霜涛",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "延安",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "鲁迅",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "葛菲",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "侯祥麟",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "洛美市",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "艾力肯",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "美联社",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "日本",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "唐永淑",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "夏湾",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "巴格达",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "西班牙工人社会党",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "意大利",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "东方歌舞团",
+      "entityType": "组织机构名"
+    },
+    {
+      "entityName": "阿德尔",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "马吉德",
+      "entityType": "人名"
+    },
+    {
+      "entityName": "人民大会堂",
+      "entityType": "地名"
+    },
+    {
+      "entityName": "澳大利亚",
+      "entityType": "地名"
+    }
+  ],
+  "articlesCount": 100,
+  "articles": [
+    {
+      "title": "article-1667",
+      "fileName": "article-1667.txt",
+      "sentenceList": [],
+      "content": "据新华社赫尔辛基１月４日电（记者郄霜涛）每到冬季，成群结对的野鸭聚集在赫尔辛基菜市场附近冰封的海面，等候着人们投喂面包；狐狸光顾闹事区热狗店；斑鸠改变候鸟冬季迁徙习惯，筑巢于住宅区街头公园；美丽的野鸡拖着绚丽的翎翅在住家庭院倘佯；狗熊、山猫等野兽出没于市区森林，这些已经成为芬兰繁华都市中常见的景象。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "4": {
+          "entityName": "赫尔辛基",
+          "entityType": "地名"
+        },
+        "16": {
+          "entityName": "郄霜涛",
+          "entityType": "人名"
+        },
+        "35": {
+          "entityName": "赫尔辛基",
+          "entityType": "地名"
+        },
+        "137": {
+          "entityName": "芬兰",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-18409",
+      "fileName": "article-18409.txt",
+      "sentenceList": [],
+      "content": "李鹏讲话朱镕基李瑞环胡锦涛尉健行李岚清等出席（附图片２张）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "李鹏",
+          "entityType": "人名"
+        },
+        "4": {
+          "entityName": "朱镕基",
+          "entityType": "人名"
+        },
+        "7": {
+          "entityName": "李瑞环",
+          "entityType": "人名"
+        },
+        "10": {
+          "entityName": "胡锦涛",
+          "entityType": "人名"
+        },
+        "13": {
+          "entityName": "尉健行",
+          "entityType": "人名"
+        },
+        "16": {
+          "entityName": "李岚清",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-13553",
+      "fileName": "article-13553.txt",
+      "sentenceList": [],
+      "content": "本报北京１月２１日讯新华社记者鹿永建、本报记者邵建武报道：今年是鲁迅先生的夫人许广平诞辰１００周年。中国民主促进会、中华全国妇女联合会、国家文物局和鲁迅博物馆近日共同举办许广平诞辰１００周年纪念会和《许广平文集》（三卷本）首发式。朱光亚等出席了纪念活动。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "2": {
+          "entityName": "北京",
+          "entityType": "地名"
+        },
+        "10": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "15": {
+          "entityName": "鹿永建",
+          "entityType": "人名"
+        },
+        "23": {
+          "entityName": "邵建武",
+          "entityType": "人名"
+        },
+        "32": {
+          "entityName": "鲁迅",
+          "entityType": "人名"
+        },
+        "39": {
+          "entityName": "许广平",
+          "entityType": "人名"
+        },
+        "50": {
+          "entityName": "中国民主促进会",
+          "entityType": "组织机构名"
+        },
+        "58": {
+          "entityName": "中华全国妇女联合会",
+          "entityType": "组织机构名"
+        },
+        "68": {
+          "entityName": "国家文物局",
+          "entityType": "组织机构名"
+        },
+        "74": {
+          "entityName": "鲁迅博物馆",
+          "entityType": "地名"
+        },
+        "85": {
+          "entityName": "许广平",
+          "entityType": "人名"
+        },
+        "100": {
+          "entityName": "许广平",
+          "entityType": "人名"
+        },
+        "115": {
+          "entityName": "朱光亚",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-14293",
+      "fileName": "article-14293.txt",
+      "sentenceList": [],
+      "content": "万安县在送文化下乡的同时，还积极指导、帮助农民建设文化园地。县、乡政府先后投资１２００多万元，在各乡镇建设电影院、文化站、阅报栏等文化基础设施，有线电视、有线广播已进村入户，文化娱乐网点遍布各乡村。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "万安县",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-14117",
+      "fileName": "article-14117.txt",
+      "sentenceList": [],
+      "content": "物价工作不仅有监督管理的一面，而且还有疏导的一面，对经济结构进行战略性调整是我国当前和今后一个时期经济工作的重点，物价工作必须围绕这一中心任务，适时地把物价工作的重点转到促进经济结构调整上来。要根据加快推进国有企业改革的要求，进一步落实企业定价自主权，完善市场价格形成机制，增强企业活力。要利用当前价格总水平比较低的有利时机，兼顾社会承受能力，积极疏导价格矛盾，为促进基础设施和基础产业发展，促进新经济增长点形成，促进产业结构升级做出更大的贡献。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-1184",
+      "fileName": "article-1184.txt",
+      "sentenceList": [],
+      "content": "１９９７年，李国安带领给水团官兵为边疆人民打井５０多眼。这些井都是在很困难的条件下打成的。“我们团长的心全都拴在部队、拴在打井上了。”说起李国安，给水团的同志们充满敬佩。（刘亮明陈建军）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "6": {
+          "entityName": "李国安",
+          "entityType": "人名"
+        },
+        "69": {
+          "entityName": "李国安",
+          "entityType": "人名"
+        },
+        "86": {
+          "entityName": "刘亮明",
+          "entityType": "人名"
+        },
+        "89": {
+          "entityName": "陈建军",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-16587",
+      "fileName": "article-16587.txt",
+      "sentenceList": [],
+      "content": "据悉，互联网络近年在我国获得迅速发展。据国务院信息化工作领导小组办公室介绍，到去年１０月底，我国接入互联网的计算机从１９９６年底的１万台发展到５万台，现有用户６２万。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "20": {
+          "entityName": "国务院信息化工作领导小组办公室",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-7330",
+      "fileName": "article-7330.txt",
+      "sentenceList": [],
+      "content": "２、图为西非开发银行。它是在洛美市落户较早的一家地区性金融机构，在多哥的经济建设中发挥着重要作用。（新华社记者庄维汉摄）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "西非开发银行",
+          "entityType": "组织机构名"
+        },
+        "14": {
+          "entityName": "洛美市",
+          "entityType": "地名"
+        },
+        "33": {
+          "entityName": "多哥",
+          "entityType": "地名"
+        },
+        "50": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "55": {
+          "entityName": "庄维汉",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-641",
+      "fileName": "article-641.txt",
+      "sentenceList": [],
+      "content": "“以资源引资金，以项目引客户，以存量引增量”是北大荒发展的又一举措。为此，他们出台２５项优惠政策，将１０００万亩国有荒山、荒地、荒草、荒水、荒滩，依法优惠拍卖、出租、发包，吸引了１３省（市）、４８县（市）及境外客商３００家。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "23": {
+          "entityName": "北大荒",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-14683",
+      "fileName": "article-14683.txt",
+      "sentenceList": [],
+      "content": "现在免费能给你大快乐的地方已经不多了。有些篝火晚会是以吃为主，叫“海鲜烧烤”，以火光吸引你多消费，即所谓“吃喝不怕远征难”。各地民俗村里的篝火晚会，是要买票才能观看的，而且票价都不贱，那是“隔岸观火”，以观众的身份看演出，跟在这样的篝火边所能享受到的情趣不能同日而语。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-10585",
+      "fileName": "article-10585.txt",
+      "sentenceList": [],
+      "content": "全国证券监管工作会议提出积极稳妥发展证券市场\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-17183",
+      "fileName": "article-17183.txt",
+      "sentenceList": [],
+      "content": "ＩＭＦ救援药方（附图片１张）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-117",
+      "fileName": "article-117.txt",
+      "sentenceList": [],
+      "content": "延安城市基础设施薄弱，进入九十年代以后，城市缺水问题日益突出，日供水量仅有二点三万吨，而日平均需水量为四点九三万吨，日缺水量达二点六三万吨。一九九六年四月，水利部和陕西省决定部省合作共建延安供水工程。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "延安",
+          "entityType": "地名"
+        },
+        "78": {
+          "entityName": "水利部",
+          "entityType": "组织机构名"
+        },
+        "82": {
+          "entityName": "陕西省",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-12991",
+      "fileName": "article-12991.txt",
+      "sentenceList": [],
+      "content": "埃及展出古埃及第六王朝法老王青铜像（图片）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "埃及",
+          "entityType": "地名"
+        },
+        "5": {
+          "entityName": "埃及",
+          "entityType": "地名"
+        },
+        "11": {
+          "entityName": "法老王",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-14408",
+      "fileName": "article-14408.txt",
+      "sentenceList": [],
+      "content": "卢卡申科在讲话中表示，两年来第一次对俄白联盟的发展情况真正感到满意和高兴。他指出，１９９７年两国贸易额增长了４０％。两国总统已商定，１９９８年双方应使两国贸易再增长４０％。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "卢卡申科",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-3662",
+      "fileName": "article-3662.txt",
+      "sentenceList": [],
+      "content": "希望在联合国有关决议的基础上尽快公正合理解决海湾战争遗留问题\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "3": {
+          "entityName": "联合国",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-17049",
+      "fileName": "article-17049.txt",
+      "sentenceList": [],
+      "content": "告别侯祥麟院士，来到汤佩松院士家。这位近９５岁高龄的植物生理学家因患心肌梗塞卧病在床。温家宝、宋健同志来到汤老床前说，您是我国科学事业的奠基人之一，党和人民不会忘记您，请您多多保重，祝您健康长寿。汤先生早年留学美国获博士学位，曾在哈佛大学任教，回国后长期从事植物生理学、生物化学、生物力能学方面的教育与研究工作，是我国这一领域的创始人之一。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "2": {
+          "entityName": "侯祥麟",
+          "entityType": "人名"
+        },
+        "10": {
+          "entityName": "汤佩松",
+          "entityType": "人名"
+        },
+        "43": {
+          "entityName": "温家宝",
+          "entityType": "人名"
+        },
+        "47": {
+          "entityName": "宋健",
+          "entityType": "人名"
+        },
+        "53": {
+          "entityName": "汤老",
+          "entityType": "人名"
+        },
+        "98": {
+          "entityName": "汤",
+          "entityType": "人名"
+        },
+        "105": {
+          "entityName": "美国",
+          "entityType": "地名"
+        },
+        "115": {
+          "entityName": "哈佛大学",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-16975",
+      "fileName": "article-16975.txt",
+      "sentenceList": [],
+      "content": "姚柏林\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "姚柏林",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-616",
+      "fileName": "article-616.txt",
+      "sentenceList": [],
+      "content": "宁夏农业产业化，较好地解决了资源优势长期得不到发挥的难题，将资源优势转化成为产业优势，形成了特点各异、形式多样的产业化格局。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "宁夏",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-2564",
+      "fileName": "article-2564.txt",
+      "sentenceList": [],
+      "content": "这些最新的星云照片不光是好看，天文学家们说，它们还提供了关于恒星等天体演化的新知识。据此间英国报纸报道，这些星云都是“哈勃”在一些“老年”恒星周围发现的。是什么原因造成这些星云如此绚丽多姿？天文学家分析后认为，这可能主要是由于“老年”恒星与周围的行星、褐矮星或更小的恒星相互作用所致。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "45": {
+          "entityName": "英国",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-17016",
+      "fileName": "article-17016.txt",
+      "sentenceList": [],
+      "content": "据了解，去年香港发生禽流感并致人死亡事件，引起国内外极大关注。农业部非常重视禽流感的监测工作，于去年１２月下旬以来组织专家调查组在深圳、广州、南海和新兴等地的鸡场和禽的批发市场，采集１５００个血样，检验结果没有发现禽流感Ｈ５Ｎ１病毒感染。广东省兽医防疫检疫站自１９９４年以来，对全省３００多个鸡场的６万多份血清样品进行了经常性检验，在鸡群中没有发现禽流感病毒Ｈ５Ｎ１亚型。截至目前，广东省农业厅也没有接到有关口岸动植物检疫机构、科研单位关于广东鸡群中感染禽流感Ｈ５Ｎ１亚型的报告。世界卫生组织专家考察团于今年１月２２日结束了在我国广东考察禽流感的工作。考察团负责人认为，在中国内地没有发现禽流感Ｈ５Ｎ１，并对广东在禽流感监测技术和基础设施方面给予肯定。香港特区政府已决定于２月７日恢复活鸡供港。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "6": {
+          "entityName": "香港",
+          "entityType": "地名"
+        },
+        "31": {
+          "entityName": "农业部",
+          "entityType": "组织机构名"
+        },
+        "65": {
+          "entityName": "深圳",
+          "entityType": "地名"
+        },
+        "68": {
+          "entityName": "广州",
+          "entityType": "地名"
+        },
+        "71": {
+          "entityName": "南海",
+          "entityType": "地名"
+        },
+        "74": {
+          "entityName": "新兴",
+          "entityType": "地名"
+        },
+        "119": {
+          "entityName": "广东省兽医防疫检疫站",
+          "entityType": "组织机构名"
+        },
+        "191": {
+          "entityName": "广东省农业厅",
+          "entityType": "组织机构名"
+        },
+        "220": {
+          "entityName": "广东",
+          "entityType": "地名"
+        },
+        "240": {
+          "entityName": "世界卫生组织",
+          "entityType": "组织机构名"
+        },
+        "265": {
+          "entityName": "广东",
+          "entityType": "地名"
+        },
+        "286": {
+          "entityName": "中国",
+          "entityType": "地名"
+        },
+        "304": {
+          "entityName": "广东",
+          "entityType": "地名"
+        },
+        "326": {
+          "entityName": "香港特区政府",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-13481",
+      "fileName": "article-13481.txt",
+      "sentenceList": [],
+      "content": "“哎，厂里已经半年没有发工资……”刘师傅慢慢介绍起来，“爱人也是特困企业的职工，因病动过５次手术，家中欠下１．１万元的债务，一个女儿交不起学费辍学了，今年２０岁了，还在家待业……”\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "17": {
+          "entityName": "刘",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4363",
+      "fileName": "article-4363.txt",
+      "sentenceList": [],
+      "content": "李鹏说，中日两国建设部门已经有了良好的合作关系，希望双方在市政规划、住宅建设和建材开发等方面继续加强合作。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "李鹏",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-7457",
+      "fileName": "article-7457.txt",
+      "sentenceList": [],
+      "content": "社区卫生服务虽然刚刚起步，但已受到群众的普遍欢迎。老百姓高兴地说：“以前只听说高级干部有保健大夫，现在我们平民百姓也有保健大夫了。”\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-6629",
+      "fileName": "article-6629.txt",
+      "sentenceList": [],
+      "content": "衣食住行本是人们最基本的生存条件。但，“住”还有不少困难。百姓呼唤，政府着急。等待，不是办法；办法，在大家的智慧中。请您提起笔，就住房问题谈些看法，或是长篇大论，或是一孔之见；大到城市规划，小到居室设计。图片、文字、图表、模型……只要是急百姓之所急，帮政府之所需的，咱们不妨一块儿谈谈。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-5090",
+      "fileName": "article-5090.txt",
+      "sentenceList": [],
+      "content": "全班九十七人无一人请假，无一人迟到。坐在太师椅、小板凳、蒲团上的学生们，人人用专注的神情，思索的目光追随老师的思维，踊跃地回答各种各样的问题。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-10066",
+      "fileName": "article-10066.txt",
+      "sentenceList": [],
+      "content": "国务院新闻办就当前金融形势举行发布会我国金融业在改革中平稳发展\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "国务院新闻办",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-18839",
+      "fileName": "article-18839.txt",
+      "sentenceList": [],
+      "content": "老将军李水清、李凯亭、宋登华等都为《红嫂》击掌叫好。殷殷话语，悠悠深情，给《红嫂》创作者以鼓舞和自信。愿《红嫂》从军营走向全国，走进千千万万的人心中。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "3": {
+          "entityName": "李水清",
+          "entityType": "人名"
+        },
+        "7": {
+          "entityName": "李凯亭",
+          "entityType": "人名"
+        },
+        "11": {
+          "entityName": "宋登华",
+          "entityType": "人名"
+        },
+        "18": {
+          "entityName": "红嫂",
+          "entityType": "人名"
+        },
+        "38": {
+          "entityName": "红嫂",
+          "entityType": "人名"
+        },
+        "53": {
+          "entityName": "红嫂",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-9230",
+      "fileName": "article-9230.txt",
+      "sentenceList": [],
+      "content": "莎阿代提·哈米提女士是维吾尔族著名教授、教育家、原中央民族学院副院长哈米提·铁木尔先生的女儿，多年来她凭着努力创业的精神，创下了富有民族特色的“阿凡提大叔美食城”。（艾力肯）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "莎阿代提·哈米提",
+          "entityType": "人名"
+        },
+        "25": {
+          "entityName": "中央民族学院",
+          "entityType": "组织机构名"
+        },
+        "34": {
+          "entityName": "哈米提·铁木尔",
+          "entityType": "人名"
+        },
+        "72": {
+          "entityName": "阿凡提大叔美食城",
+          "entityType": "地名"
+        },
+        "83": {
+          "entityName": "艾力肯",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4700",
+      "fileName": "article-4700.txt",
+      "sentenceList": [],
+      "content": "南非将起诉前总统\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "南非",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-13093",
+      "fileName": "article-13093.txt",
+      "sentenceList": [],
+      "content": "１８时３０分，车行至郑南公路券桥乡夏湾路段时，发现路旁有一群人正焦急地向过往车辆招手，张国伟马上让周勇把车停下来。他下车拨开人群一看，一名大约２０岁左右的年轻人躺在地上，不省人事，鲜血正从腿部渗出。张国伟说：“赶快送医院。”他和周勇及同行的宛城区委司机高道强迅速将伤者抬到自己乘坐的车上，直接送到方城县公安局法医院。张国伟跑前跑后为伤者挂号、取药。伤者的父亲赶到医院，看到这些好人正为自己儿子忙这忙那，赶快跑到医院门口代销店买了两条好烟，送给张国伟等人。张国伟婉拒伤者父亲的谢意后，又去问医生，得知伤者确无危险，方才离去。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "10": {
+          "entityName": "郑南",
+          "entityType": "地名"
+        },
+        "14": {
+          "entityName": "券桥乡",
+          "entityType": "地名"
+        },
+        "17": {
+          "entityName": "夏湾",
+          "entityType": "地名"
+        },
+        "43": {
+          "entityName": "张国伟",
+          "entityType": "人名"
+        },
+        "49": {
+          "entityName": "周勇",
+          "entityType": "人名"
+        },
+        "99": {
+          "entityName": "张国伟",
+          "entityType": "人名"
+        },
+        "114": {
+          "entityName": "周勇",
+          "entityType": "人名"
+        },
+        "120": {
+          "entityName": "宛城区委",
+          "entityType": "组织机构名"
+        },
+        "126": {
+          "entityName": "高道强",
+          "entityType": "人名"
+        },
+        "148": {
+          "entityName": "方城县公安局法医院",
+          "entityType": "组织机构名"
+        },
+        "158": {
+          "entityName": "张国伟",
+          "entityType": "人名"
+        },
+        "221": {
+          "entityName": "张国伟",
+          "entityType": "人名"
+        },
+        "227": {
+          "entityName": "张国伟",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-1846",
+      "fileName": "article-1846.txt",
+      "sentenceList": [],
+      "content": "指现实汇率不受平价的限制，随外汇市场供求状况而波动的汇率制度。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-16300",
+      "fileName": "article-16300.txt",
+      "sentenceList": [],
+      "content": "我第一次被欧洲人的“圣诞情结”所感染，竟也莫名其妙的兴奋，企盼着１２月２５日的来临，看看圣诞之夜的夜巴黎又将是怎样的令人眼花缭乱。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "欧洲",
+          "entityType": "地名"
+        },
+        "50": {
+          "entityName": "巴黎",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-18080",
+      "fileName": "article-18080.txt",
+      "sentenceList": [],
+      "content": "４年前，王国栋以７分之差高考落榜。他多么想复读啊，可是父亲因两次住院手术，全家债台高筑。带着遗憾和不甘，王国栋进城打工。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "王国栋",
+          "entityType": "人名"
+        },
+        "52": {
+          "entityName": "王国栋",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4454",
+      "fileName": "article-4454.txt",
+      "sentenceList": [],
+      "content": "据新华社北京１月７日电（记者周志方、赵秀娟）新年期间，全军和武警部队３２个专业文艺团体组织百余个文艺小分队，深入边防、海岛、高原、哨所和革命老区慰问基层官兵和群众，受到广大军民的热烈欢迎。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "4": {
+          "entityName": "北京",
+          "entityType": "地名"
+        },
+        "14": {
+          "entityName": "周志方",
+          "entityType": "人名"
+        },
+        "18": {
+          "entityName": "赵秀娟",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-17887",
+      "fileName": "article-17887.txt",
+      "sentenceList": [],
+      "content": "代表们指出，祖国内地实行改革开放以来经济建设方面取得的成就举世公认，如果海峡两岸能早日实现和平统一，对于广大华夏子孙来说是不尽的福祉，对世界的和平与稳定也将是巨大贡献。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-13859",
+      "fileName": "article-13859.txt",
+      "sentenceList": [],
+      "content": "因为几内亚农业开发项目无论资金来源还是组织形式，均不同于以往的援外项目，为了使开发能长期有效地合作下去，农业部在研究项目实施方案时，一开始就确定了“政府扶持，企业经营；积极慎重，由小到大；平等互利，注重实效；以粮为主，多种经营”的基本思路。这是我国农村经济发展的一个基本思路，现在，这个思路正在成功的实践当中。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "2": {
+          "entityName": "几内亚",
+          "entityType": "地名"
+        },
+        "52": {
+          "entityName": "农业部",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-6851",
+      "fileName": "article-6851.txt",
+      "sentenceList": [],
+      "content": "我国城镇居民的住宅取得方式是多种多样的，与收入状况基本无关。在非国有单位工作的少部分高收入家庭主要依靠自己家庭收入购买或租住商品住宅（包括私人住宅）；机关、事业单位职工，国有企业和部分集体企业职工主要依靠单位福利分配途径取得、低租金使用或按优惠价格购买住宅；也有一些国有单位职工依靠家庭积累购买具有社会保障性质的安居工程或经济适用住房，这主要是一些不再分配或无力分配住房的集体或私营企业的职工；还有一些居民自建住房。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-5064",
+      "fileName": "article-5064.txt",
+      "sentenceList": [],
+      "content": "ＬＬＤ本是“法学博士”的缩写，但这里的全文却是ｌａｎｄｌａｄｙｓｄａｕｇｈｔｅｒ（房东太太的女儿）。在英国留学的中国人，除少数幸运者可以住上宿舍（我在王家学院就享受过两年），一般都住在当地肯接纳东方学生的居民家里。那时，每周房价三镑至五镑，有的还管一顿早餐。这些房东往往都有位闺女。周末一道看看电影是常事。艾琳就是一位。她人活泼喜性，见人总笑。在ＬＬＤ中间，应属上乘。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "51": {
+          "entityName": "英国",
+          "entityType": "地名"
+        },
+        "56": {
+          "entityName": "中国",
+          "entityType": "地名"
+        },
+        "75": {
+          "entityName": "王家学院",
+          "entityType": "组织机构名"
+        },
+        "153": {
+          "entityName": "艾琳",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-1049",
+      "fileName": "article-1049.txt",
+      "sentenceList": [],
+      "content": "新华社巴格达１月３日电（记者顾正龙、刘加文）联合国销毁伊拉克化学、生物和核武器特别委员会（特委会）驻巴格达总部所在地“运河”饭店２日晚遭到来历不明的火箭炮弹袭击，饭店的部分门窗玻璃受损，但没有人员伤亡。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "3": {
+          "entityName": "巴格达",
+          "entityType": "地名"
+        },
+        "14": {
+          "entityName": "顾正龙",
+          "entityType": "人名"
+        },
+        "18": {
+          "entityName": "刘加文",
+          "entityType": "人名"
+        },
+        "22": {
+          "entityName": "联合国销毁伊拉克化学、生物和核武器特别委员会",
+          "entityType": "组织机构名"
+        },
+        "50": {
+          "entityName": "巴格达",
+          "entityType": "地名"
+        },
+        "59": {
+          "entityName": "运河",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-7162",
+      "fileName": "article-7162.txt",
+      "sentenceList": [],
+      "content": "据新华社北京１月１２日电中共中央政治局委员、书记处书记温家宝今晚在人民大会堂会见了西班牙工人社会党总书记华金·阿尔穆尼亚一行。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "4": {
+          "entityName": "北京",
+          "entityType": "地名"
+        },
+        "12": {
+          "entityName": "中共中央政治局",
+          "entityType": "组织机构名"
+        },
+        "27": {
+          "entityName": "温家宝",
+          "entityType": "人名"
+        },
+        "33": {
+          "entityName": "人民大会堂",
+          "entityType": "地名"
+        },
+        "41": {
+          "entityName": "西班牙工人社会党",
+          "entityType": "组织机构名"
+        },
+        "52": {
+          "entityName": "华金·阿尔穆尼亚",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-2106",
+      "fileName": "article-2106.txt",
+      "sentenceList": [],
+      "content": "本法所称价格包括商品价格和服务价格。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-8870",
+      "fileName": "article-8870.txt",
+      "sentenceList": [],
+      "content": "本报讯把学历教育延伸到村级干部，这是河南信阳地区最近加强农村基层干部队伍建设的重要举措。目前，该地区共有１５７０名来自村村落落的村级及其后备干部，在河南大学、信阳师院、豫南农专等高校接受为期两年的脱产大专班学习。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "18": {
+          "entityName": "河南信阳地区",
+          "entityType": "地名"
+        },
+        "74": {
+          "entityName": "河南大学",
+          "entityType": "组织机构名"
+        },
+        "79": {
+          "entityName": "信阳师院",
+          "entityType": "组织机构名"
+        },
+        "84": {
+          "entityName": "豫南农专",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-363",
+      "fileName": "article-363.txt",
+      "sentenceList": [],
+      "content": "只需一遍\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-2538",
+      "fileName": "article-2538.txt",
+      "sentenceList": [],
+      "content": "在这起事件中，俄罗斯一些政府官员起了推波助澜的作用。马夫罗季发迹后，不少政府官员以各种方式对其及ＭＭＭ表示了支持，并协助其进入政界。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "7": {
+          "entityName": "俄罗斯",
+          "entityType": "地名"
+        },
+        "26": {
+          "entityName": "马夫罗季",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4221",
+      "fileName": "article-4221.txt",
+      "sentenceList": [],
+      "content": "饭桌上，谁先动筷子？——孩子，还是老人？\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-3000",
+      "fileName": "article-3000.txt",
+      "sentenceList": [],
+      "content": "听省农委副主任陈吉芳介绍，省里领导最近要邀请３０位搞运销的农民到省城“做客”，勉励他们为湖南农产品走向国内国际市场作出的贡献；听取运销大户对现在的市场、信息、服务等方面有哪些需要改进的意见。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "7": {
+          "entityName": "陈吉芳",
+          "entityType": "人名"
+        },
+        "44": {
+          "entityName": "湖南",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-8229",
+      "fileName": "article-8229.txt",
+      "sentenceList": [],
+      "content": "问：正如您刚才所讲，将有１４位反对派人士担当政府重要岗位的领导工作。这将对塔内外政策产生多大影响？\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-11359",
+      "fileName": "article-11359.txt",
+      "sentenceList": [],
+      "content": "女双桂冠为中国选手顾俊／葛菲摘取。因另一对中国运动员中的秦艺源生病弃权，顾俊／葛菲不战而胜。秦艺源／唐永淑获得亚军。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "中国",
+          "entityType": "地名"
+        },
+        "9": {
+          "entityName": "顾俊",
+          "entityType": "人名"
+        },
+        "12": {
+          "entityName": "葛菲",
+          "entityType": "人名"
+        },
+        "21": {
+          "entityName": "中国",
+          "entityType": "地名"
+        },
+        "28": {
+          "entityName": "秦艺源",
+          "entityType": "人名"
+        },
+        "36": {
+          "entityName": "顾俊",
+          "entityType": "人名"
+        },
+        "39": {
+          "entityName": "葛菲",
+          "entityType": "人名"
+        },
+        "46": {
+          "entityName": "秦艺源",
+          "entityType": "人名"
+        },
+        "50": {
+          "entityName": "唐永淑",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4378",
+      "fileName": "article-4378.txt",
+      "sentenceList": [],
+      "content": "实施“供水解困”工程５年来，山西省已有３３０万农村人口解决了吃水问题。从１９９３年起，山西省把解决贫困山区人畜吃水困难作为扶贫的一项重点内容来抓，加大政府的资金、物质投入，提倡广大农民大搞股份合作制办水，平均每年使７０余万农村人口摆脱“吃水难”。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "14": {
+          "entityName": "山西省",
+          "entityType": "地名"
+        },
+        "43": {
+          "entityName": "山西省",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-18243",
+      "fileName": "article-18243.txt",
+      "sentenceList": [],
+      "content": "其次，扶贫帮困既需要“输血”，更需要“造血”。送钱送物固然可以为困难群众解一时之困，然而，却不能替他们排后顾之忧。困难户、特困户的情况、原因千差万别，各级党政部门除了应及时为他们提供一些钱款物品救济，为他们“输血”补充营养外，更重要的还应根据其不同的情况、条件，积极想方设法为他们开辟就业、再就业的新天地，增强他们自我造血、战胜贫困的能力。可以说，“输血”乃治标，“造血”方治本。只有标本兼治，才能从根本上解决贫困问题。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-9506",
+      "fileName": "article-9506.txt",
+      "sentenceList": [],
+      "content": "先建后联合理选择\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-1793",
+      "fileName": "article-1793.txt",
+      "sentenceList": [],
+      "content": "国家规定未列入《全国汽车、民用改装车和摩托车生产企业及产品目录》的企业，不得生产汽车、摩托车，违者按非法拼（组）装车辆依法处理。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-13279",
+      "fileName": "article-13279.txt",
+      "sentenceList": [],
+      "content": "武汉市一家副食品商场女职工王美珍下岗时泪流满面。她是一个腿残人，下岗后哪容易再找到工作？在“一帮一”结对扶贫活动中，区劳动局长主动上门认“穷亲”，把王美珍家作为长期结对扶贫对象，当即送上慰问金１１００元，解决了王美珍儿子的学费，并多方奔走，解决了她女儿的工作。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "武汉市",
+          "entityType": "地名"
+        },
+        "13": {
+          "entityName": "王美珍",
+          "entityType": "人名"
+        },
+        "74": {
+          "entityName": "王美珍",
+          "entityType": "人名"
+        },
+        "105": {
+          "entityName": "王美珍",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-15484",
+      "fileName": "article-15484.txt",
+      "sentenceList": [],
+      "content": "新华社莫斯科１月２２日电（记者张铁柱）莫斯科市市长卢日科夫２２日宣布，莫斯科市已向国际奥委会提出举办夏季奥运会的申请。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "3": {
+          "entityName": "莫斯科",
+          "entityType": "地名"
+        },
+        "15": {
+          "entityName": "张铁柱",
+          "entityType": "人名"
+        },
+        "19": {
+          "entityName": "莫斯科市",
+          "entityType": "地名"
+        },
+        "25": {
+          "entityName": "卢日科夫",
+          "entityType": "人名"
+        },
+        "35": {
+          "entityName": "莫斯科市",
+          "entityType": "地名"
+        },
+        "41": {
+          "entityName": "国际奥委会",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-17443",
+      "fileName": "article-17443.txt",
+      "sentenceList": [],
+      "content": "然而，调查显示，有一半左右的电话拥有者并不了解自己电话机的品牌。很显然，这并不是国产电话机质量已达到了世界领先水平，消费者根本不用比较鉴别。国家技术监督局１９９７年第二季度对电话机质量进行的抽查表明，除了像ＴＣＬ等一些电话机生产大型企业的各系列电话机抽样合格率均达１００％外，我国相当一部分电话机企业产品不合格。其中，被抽查的２５种无绳电话机中７种不合格，３３种按键电话机中有９种不合格，产品抽样合格率为７１．４％，这还不包括假冒伪劣和无入网许可证厂家的产品。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "70": {
+          "entityName": "国家技术监督局",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-5308",
+      "fileName": "article-5308.txt",
+      "sentenceList": [],
+      "content": "（新华社发美联社照片）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "5": {
+          "entityName": "美联社",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-5658",
+      "fileName": "article-5658.txt",
+      "sentenceList": [],
+      "content": "泰岛\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "泰岛",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-10940",
+      "fileName": "article-10940.txt",
+      "sentenceList": [],
+      "content": "郑州－０．７－１．８－０．４\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "郑州",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-811",
+      "fileName": "article-811.txt",
+      "sentenceList": [],
+      "content": "富丽堂皇的维也纳音乐之友协会金色大厅里，一首轻松欢快的《骑士进行曲》再一次拉开了维也纳新年音乐会的序幕。１９９８年新年音乐会演奏的主要作品仍然是施特劳斯父子和兄弟创作的名曲，约翰·施特劳斯的不朽之作《蓝色多瑙河》和其父创作的《拉德茨基进行曲》仍然是新年音乐会的保留曲目。但是音乐会却一如既往地引起了巨大的轰动。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "维也纳",
+          "entityType": "地名"
+        },
+        "40": {
+          "entityName": "维也纳",
+          "entityType": "地名"
+        },
+        "72": {
+          "entityName": "施特劳斯",
+          "entityType": "人名"
+        },
+        "87": {
+          "entityName": "约翰·施特劳斯",
+          "entityType": "人名"
+        },
+        "102": {
+          "entityName": "多瑙河",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-7545",
+      "fileName": "article-7545.txt",
+      "sentenceList": [],
+      "content": "以市场机制为动力，搞活经营，拓宽消除贫穷的路子。社会主义市场经济体制的逐步建立，给消除贫穷带来了前所未有的生机与活力。充分运用市场机制，树立新的扶贫观念和开发思路，帮助农民走上市场。鼓励多种所有制经济共同发展，重视发展集体经济，壮大集体扶贫的实力，鼓励、引导个体、私营经济的发展，增强山区经济的活力。积极探索新的经营形式，提高扶贫开发的效益。进一步敞开山门，扩大对外开放，主动接受城市和东部地区产业的转移，引进资金、技术和人才，加快贫困山区资源开发。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-3315",
+      "fileName": "article-3315.txt",
+      "sentenceList": [],
+      "content": "１９９６年大选后，新进党内分党之声不绝。国会议员纷纷离党而去。羽田和细川也先后另起炉灶。去年１２月１８日新进党党首选举后，并没能聚拢人心。面对日趋涣散的局面，小泽党首不得不于去年１２月２７日正式宣布该党解散。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "31": {
+          "entityName": "羽田",
+          "entityType": "人名"
+        },
+        "34": {
+          "entityName": "细川",
+          "entityType": "人名"
+        },
+        "79": {
+          "entityName": "小泽",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-16881",
+      "fileName": "article-16881.txt",
+      "sentenceList": [],
+      "content": "正当调查深入进行时，褚时健坐不住了。１９９６年１２月２８日，他在经过充分准备后，出现在云南边陲河口企图出境，被边防检查站截获。１９９７年１月６日，云南省人民检察院决定对褚时健立案侦查，２月８日监视居住，７月１０日转捕。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "10": {
+          "entityName": "褚时健",
+          "entityType": "人名"
+        },
+        "43": {
+          "entityName": "云南",
+          "entityType": "地名"
+        },
+        "73": {
+          "entityName": "云南省人民检察院",
+          "entityType": "组织机构名"
+        },
+        "84": {
+          "entityName": "褚时健",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-14112",
+      "fileName": "article-14112.txt",
+      "sentenceList": [],
+      "content": "邹家华强调，１９９８年土地管理部门的责任更加重大，任务更加艰巨。要坚决把中央继续冻结的决策落到实处，确保冻得住。要以用途管制为核心，建立土地管理新秩序。要围绕企业改革、加强农业基础地位，发挥土地管理的职能作用。实现耕地总量动态平衡，对于维护国家粮食安全，巩固农业基础地位至关重要。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "邹家华",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-16665",
+      "fileName": "article-16665.txt",
+      "sentenceList": [],
+      "content": "一九九七年第三、四季度杂文『金台奖』获奖名单\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-11749",
+      "fileName": "article-11749.txt",
+      "sentenceList": [],
+      "content": "全国５３８５１２３３．４２００９２２４８１２４６\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-12950",
+      "fileName": "article-12950.txt",
+      "sentenceList": [],
+      "content": "《石油战略》周刊发表的数字还显示，１９９７年欧佩克原油平均价格下降了约４％，从上一年的每桶１９·２５美元降为每桶１８·５６美元。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "22": {
+          "entityName": "欧佩克",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-16807",
+      "fileName": "article-16807.txt",
+      "sentenceList": [],
+      "content": "第十一届国际认可论坛（ＩＡＦ）大会于近日在广州召开。本次会议上质量体系认证国际多边承认取得了突破性进展，大会批准了如下国家的认可机构签署多边承认协议：日本、中国、丹麦、芬兰、德国、法国、意大利、荷兰、挪威、瑞典、瑞士、英国、加拿大、美国、澳大利亚。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "21": {
+          "entityName": "广州",
+          "entityType": "地名"
+        },
+        "75": {
+          "entityName": "日本",
+          "entityType": "地名"
+        },
+        "78": {
+          "entityName": "中国",
+          "entityType": "地名"
+        },
+        "81": {
+          "entityName": "丹麦",
+          "entityType": "地名"
+        },
+        "84": {
+          "entityName": "芬兰",
+          "entityType": "地名"
+        },
+        "87": {
+          "entityName": "德国",
+          "entityType": "地名"
+        },
+        "90": {
+          "entityName": "法国",
+          "entityType": "地名"
+        },
+        "93": {
+          "entityName": "意大利",
+          "entityType": "地名"
+        },
+        "97": {
+          "entityName": "荷兰",
+          "entityType": "地名"
+        },
+        "100": {
+          "entityName": "挪威",
+          "entityType": "地名"
+        },
+        "103": {
+          "entityName": "瑞典",
+          "entityType": "地名"
+        },
+        "106": {
+          "entityName": "瑞士",
+          "entityType": "地名"
+        },
+        "109": {
+          "entityName": "英国",
+          "entityType": "地名"
+        },
+        "112": {
+          "entityName": "加拿大",
+          "entityType": "地名"
+        },
+        "116": {
+          "entityName": "美国",
+          "entityType": "地名"
+        },
+        "119": {
+          "entityName": "澳大利亚",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-3186",
+      "fileName": "article-3186.txt",
+      "sentenceList": [],
+      "content": "７１岁高龄去世也算寿终正寝，可他的去世却在人们的心目中产生了强烈的震撼！中共贵州省委、省政府领导送来花圈表示吊唁；地委、行署领导参加告别仪式；思南县许家坝的１５位农民代表从２００多公里外日夜兼程赶来；预定只有几十人的追悼会，一下子涌来了几百人……\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "36": {
+          "entityName": "中共贵州省委",
+          "entityType": "组织机构名"
+        },
+        "71": {
+          "entityName": "思南县",
+          "entityType": "地名"
+        },
+        "74": {
+          "entityName": "许家坝",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-8831",
+      "fileName": "article-8831.txt",
+      "sentenceList": [],
+      "content": "天气趋势分析\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-17149",
+      "fileName": "article-17149.txt",
+      "sentenceList": [],
+      "content": "东亚金融动荡引发的思考\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "东亚",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-19184",
+      "fileName": "article-19184.txt",
+      "sentenceList": [],
+      "content": "富润集团在１９８８年实行承包制，打破铁饭碗，结束了企业当时连续３年亏损局面。１９９４年又进行规范化股份制改造，实行企业内部市场机制，经营管理上实行定目标、定任务的直线责任制，生产车间直接面向市场。车间之间的工序加工实行内部结算，职工全面实行计件与计时相结合的工资制，以效益为杠杆确定生产单位奖惩。在市场拓展方面，加强营销和开发力量，以市场需求为导向，不断调整产品结构，使企业迅速改变面貌，成为全国针织行业的领头雁。在１９９２年到１９９６年间，他们连续兼并４家国有企业，承担债务２．１６亿元，接收职工４８００多名。用改革办法来管理这些被兼并企业，人还是这些人，却有了完全不同的效益。毛纺厂被兼并后，引进４２台先进设备，生产适销对路的装饰布和化纤布，开发了市场旺销的精纺薄型花呢，该厂兼并当年就止亏，第二年盈利１００万元，去年盈利超过３００万元。去年，富润集团又兼并了１６家商贸企业，承接债务３．４亿元、职工４２３６人，集团职工总数超过万人。这些被兼并企业机构设置臃肿，而生产一线劳力紧张。富润集团领导认为国有企业人员包袱并不是劳动力简单过剩，主要是结构不合理。他们大刀阔斧裁减管理人员，大胆剥离社会职能，为富余人员准备了１４种分流方向，在集团内部设立“劳务交流中心”，积极为职工创造再上岗机会。结果，生产上去了，服务发展了，职工满意了，集团的规模扩大，整体素质提高，各兼并企业效益明显提高。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "富润集团",
+          "entityType": "组织机构名"
+        },
+        "374": {
+          "entityName": "富润集团",
+          "entityType": "组织机构名"
+        },
+        "443": {
+          "entityName": "富润集团",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-14390",
+      "fileName": "article-14390.txt",
+      "sentenceList": [],
+      "content": "据新华社华盛顿１月２１日电（记者翟景升）美国财政部长罗伯特·鲁宾２１日在这里发表讲话时指出，在全球经济互相依存的今天，立即行动起来帮助亚洲有效地稳定经济形势就是保护每个美国人的经济利益。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "4": {
+          "entityName": "华盛顿",
+          "entityType": "地名"
+        },
+        "16": {
+          "entityName": "翟景升",
+          "entityType": "人名"
+        },
+        "20": {
+          "entityName": "美国",
+          "entityType": "地名"
+        },
+        "26": {
+          "entityName": "罗伯特·鲁宾",
+          "entityType": "人名"
+        },
+        "67": {
+          "entityName": "亚洲",
+          "entityType": "地名"
+        },
+        "84": {
+          "entityName": "美国",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-16094",
+      "fileName": "article-16094.txt",
+      "sentenceList": [],
+      "content": "第二章地震监测预报\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-14011",
+      "fileName": "article-14011.txt",
+      "sentenceList": [],
+      "content": "３４岁的王振昌自幼生长在这块贫瘠之地。高中毕业后，他按捺不住青春萌动的心，凭着自己的聪明才智，决心寻找一条致富的捷径。他依据当地煤炭资源蕴藏丰富的优势，１９８４年率先承包全村第一个村办煤矿。谁知村办煤矿是一个贫煤区，刚一开采就面临关闭。王振昌要认定的事，就会勇往直前，绝不气馁。他先后到禹州、许昌、郑州煤炭学院等地学习采煤技术等专业本领。功夫不负有心人，凭着坚强的信念和不向大山低头的毅力，他成功了。１９９４年，王振昌开办的老君庙煤矿产煤３万吨，盈利近１００万元。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "4": {
+          "entityName": "王振昌",
+          "entityType": "人名"
+        },
+        "118": {
+          "entityName": "王振昌",
+          "entityType": "人名"
+        },
+        "143": {
+          "entityName": "禹州",
+          "entityType": "地名"
+        },
+        "146": {
+          "entityName": "许昌",
+          "entityType": "地名"
+        },
+        "149": {
+          "entityName": "郑州煤炭学院",
+          "entityType": "组织机构名"
+        },
+        "206": {
+          "entityName": "王振昌",
+          "entityType": "人名"
+        },
+        "212": {
+          "entityName": "老君庙煤矿",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-12423",
+      "fileName": "article-12423.txt",
+      "sentenceList": [],
+      "content": "近年，艾滋病已成为一些国家青壮年死亡的首位原因。面对病魔急剧蔓延，人类已没有退路。（附图片１张）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-1979",
+      "fileName": "article-1979.txt",
+      "sentenceList": [],
+      "content": "其次，网络远程教育是交互式教育。它能够发挥学生的主动性，使学生和教师之间平等、自由地沟通。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-12988",
+      "fileName": "article-12988.txt",
+      "sentenceList": [],
+      "content": "据英国报纸报道，克莱一生下来就对母乳过敏，后来其父母发现奶制品、巧克力、糖果等儿童爱吃的食品克莱都不能吃。连碰一碰某些食品或者身上溅上了某种饮料，都会有生命危险。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "英国",
+          "entityType": "地名"
+        },
+        "8": {
+          "entityName": "克莱",
+          "entityType": "人名"
+        },
+        "46": {
+          "entityName": "克莱",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-4470",
+      "fileName": "article-4470.txt",
+      "sentenceList": [],
+      "content": "在为期４天的会议期间，代表们根据选举法和全国人大常委会通过的协商选举方案，经过认真的酝酿、讨论和协商，提出了具有广泛性、代表性的１６位候选人，充分表达了广大台湾同胞的意愿。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "20": {
+          "entityName": "全国人大常委会",
+          "entityType": "组织机构名"
+        },
+        "78": {
+          "entityName": "台湾",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-9940",
+      "fileName": "article-9940.txt",
+      "sentenceList": [],
+      "content": "于是我就盯上了祖父的书柜。都是些医学书。我一套一套地翻，觉得没啥味道儿，就随手扔了。然后就出去站在雪地里看风景，然后就又感到没意思，然后就再回到屋里去拣起那些书来看。这次我先是看里面的人儿和图儿，横着看几遍，再竖着看几遍，一点点儿的，还真看出了一些门道。之后我又找到一本全是图的书，很认真地从头翻至尾，用了整整一个下午的时间。如今我已忘了我所读的第一本书的名字了，我想大概是应该叫做什么人体解剖学的。自那时起，我就记住了人体每一个部件的确切位置，至今也从未搞错过。说句笑话，这本书还让我落下了一个难以改掉的毛病，即以后无论杀鸡宰兔，都要将其内脏倒腾几遍，仔细地研究一番。此其一。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-17141",
+      "fileName": "article-17141.txt",
+      "sentenceList": [],
+      "content": "据新华社华盛顿１月２４日电据美国新闻媒介报道，美国总统克林顿２４日与其外交顾问们一起研究了如何尽快解决同伊拉克在武器核查上对峙的问题。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        },
+        "4": {
+          "entityName": "华盛顿",
+          "entityType": "地名"
+        },
+        "14": {
+          "entityName": "美国",
+          "entityType": "地名"
+        },
+        "23": {
+          "entityName": "美国",
+          "entityType": "地名"
+        },
+        "27": {
+          "entityName": "克林顿",
+          "entityType": "人名"
+        },
+        "52": {
+          "entityName": "伊拉克",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-10960",
+      "fileName": "article-10960.txt",
+      "sentenceList": [],
+      "content": "济南１．５０．６１．６\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "济南",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-12111",
+      "fileName": "article-12111.txt",
+      "sentenceList": [],
+      "content": "另外，鉴于亚洲货币大幅度贬值，该地区产品在世界市场上的竞争力将更加明显，而且亚洲国家迫切需要通过大量出口积累外汇重建经济。这会对加州乃至整个美国产品的出口形成严峻的挑战。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "亚洲",
+          "entityType": "地名"
+        },
+        "38": {
+          "entityName": "亚洲",
+          "entityType": "地名"
+        },
+        "64": {
+          "entityName": "加州",
+          "entityType": "地名"
+        },
+        "70": {
+          "entityName": "美国",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-12775",
+      "fileName": "article-12775.txt",
+      "sentenceList": [],
+      "content": "江主席会见美国防部长\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "江",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-7288",
+      "fileName": "article-7288.txt",
+      "sentenceList": [],
+      "content": "阿盟发言人塔拉特当天对记者发表谈话说，该代表团成员在会晤阿盟助理秘书长阿德尔时转交了上述信件。他说，阿盟秘书长马吉德将就此事分别致信联合国秘书长安南和安理会主席，提请他们考虑这一要求。同时，阿盟还要求安理会制裁伊拉克委员会同意这一要求。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "5": {
+          "entityName": "塔拉特",
+          "entityType": "人名"
+        },
+        "35": {
+          "entityName": "阿德尔",
+          "entityType": "人名"
+        },
+        "55": {
+          "entityName": "马吉德",
+          "entityType": "人名"
+        },
+        "66": {
+          "entityName": "联合国",
+          "entityType": "组织机构名"
+        },
+        "72": {
+          "entityName": "安南",
+          "entityType": "人名"
+        },
+        "105": {
+          "entityName": "伊拉克",
+          "entityType": "地名"
+        }
+      }
+    },
+    {
+      "title": "article-4970",
+      "fileName": "article-4970.txt",
+      "sentenceList": [],
+      "content": "从１９９７年的长篇创作上看，题材的选择也有多样化的趋势，写历史、写爱情、写科幻，都是借以表现历史和时代的角度与形式。叙述方式、表现形式也更加多样。典型人物的塑造成功与否，时代含量的深刻充足与否，自然是衡量长篇小说的基本标准。我们要潜伏身心，创造出让后代能够从中看到我们生活的这个时代的作品，让他们在我们留下的作品中得以知道这个曾令我们激动、震荡的时代里，究竟发生过什么事，有过什么样的人。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-14690",
+      "fileName": "article-14690.txt",
+      "sentenceList": [],
+      "content": "我深感一种上对了船跟对了人的幸运，在城市里绝难听到这么好的歌，自然，纯真，滔滔不绝，变化万端。我对自己说：圆满了，太圆满了。美景，美声，情美，人美。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-12599",
+      "fileName": "article-12599.txt",
+      "sentenceList": [],
+      "content": "新的课题\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-11500",
+      "fileName": "article-11500.txt",
+      "sentenceList": [],
+      "content": "取消指令性计划之后，农业银行可以更好地自主经营，将根据资金来源制约资金运用原则、风险控制原则和效益原则，自主掌握贷款投放总量、结构以及贷款项目，根据市场的变化及时调整经营政策，实施“双优（优势产业、优良客户）发展战略”，加强对客户的选择，有利于促进经济结构的调整，发挥农村金融领域的主导作用。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-14559",
+      "fileName": "article-14559.txt",
+      "sentenceList": [],
+      "content": "中国交响乐团、中央歌剧芭蕾舞剧院交响乐团和芭蕾舞团、东方歌舞团的排练厅，日日乐舞不休，一台台迎春节目正准备出场。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "中国交响乐团",
+          "entityType": "组织机构名"
+        },
+        "7": {
+          "entityName": "中央歌剧芭蕾舞剧院交响乐团",
+          "entityType": "组织机构名"
+        },
+        "26": {
+          "entityName": "东方歌舞团",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-3841",
+      "fileName": "article-3841.txt",
+      "sentenceList": [],
+      "content": "这项被称为秸秆气的新技术，是将农作物秸秆粉碎后，通过专用设备处理，产生高品位可燃气体，然后储于气柜中，用时通过输气管道，送到各家各户，供做饭取暖用。据了解，这一技术首批推广的重点是石家庄机场周围、省内高速公路两侧及省城近郊。（据新华社电）\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "90": {
+          "entityName": "石家庄",
+          "entityType": "地名"
+        },
+        "114": {
+          "entityName": "新华社",
+          "entityType": "组织机构名"
+        }
+      }
+    },
+    {
+      "title": "article-11902",
+      "fileName": "article-11902.txt",
+      "sentenceList": [],
+      "content": "天气趋势分析\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-18918",
+      "fileName": "article-18918.txt",
+      "sentenceList": [],
+      "content": "这支队伍有２０００余人，他们是乌鲁木齐市、区、县党政机关的干部，在市委书记吴敦夫、副书记张国文等党政领导带领下，替下全市的环卫工人。记者采访时，吴敦夫说，环卫工人为了让市民生活得舒适、卫生，他们常年累月，在万籁俱寂之时，踏着晨曦，顶着路灯，辛劳不停，她们是最可尊敬的人。我们大年初一替换环卫工人，已经有１０个年头了，可谓“十年树一风”。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "15": {
+          "entityName": "乌鲁木齐",
+          "entityType": "地名"
+        },
+        "37": {
+          "entityName": "吴敦夫",
+          "entityType": "人名"
+        },
+        "44": {
+          "entityName": "张国文",
+          "entityType": "人名"
+        },
+        "72": {
+          "entityName": "吴敦夫",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-2529",
+      "fileName": "article-2529.txt",
+      "sentenceList": [],
+      "content": "泡沫艳丽ＭＭＭ股票价格青云直上\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-12521",
+      "fileName": "article-12521.txt",
+      "sentenceList": [],
+      "content": "２０日，８５００多间“保暖简易房”在灾区星罗棋布，防冻棚中的大部分灾民可迁进新居，暖暖和和过春节了。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-13415",
+      "fileName": "article-13415.txt",
+      "sentenceList": [],
+      "content": "在南河村我们看到，这里尚处在刚刚解决温饱后的休养生息阶段，多数人家还没有像样的家具，没有电视。但人们的精神面貌很好，他们改变了过去等靠要的习惯做法，已利用世行贷款发展了１０００亩薪炭林，１０００亩杏林也在营造之中。我们称赞他们这种精神，王老汉和邻居说：“俺们有水了。”\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "1": {
+          "entityName": "南河村",
+          "entityType": "地名"
+        },
+        "118": {
+          "entityName": "王",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-15394",
+      "fileName": "article-15394.txt",
+      "sentenceList": [],
+      "content": "菲又降低经济增长目标印尼盾汇率创历史新低\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-11758",
+      "fileName": "article-11758.txt",
+      "sentenceList": [],
+      "content": "联营３７７８５７．０９０９９２６４．５\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {}
+    },
+    {
+      "title": "article-18329",
+      "fileName": "article-18329.txt",
+      "sentenceList": [],
+      "content": "郑剑\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "郑剑",
+          "entityType": "人名"
+        }
+      }
+    },
+    {
+      "title": "article-17905",
+      "fileName": "article-17905.txt",
+      "sentenceList": [],
+      "content": "埃里卡特表示，无论在和平进程中面临多大的困难，巴方仍将以通过谈判解决巴以争端作为第一选择。他还宣布，阿拉法特将于近日出访欧洲，以寻求欧洲各国在推进和平进程方面发挥更大作用。\n",
+      "isSeged": false,
+      "sentiment": 0.0,
+      "opinionated": false,
+      "isSegedwithNature": false,
+      "entities": {
+        "0": {
+          "entityName": "埃里卡特",
+          "entityType": "人名"
+        },
+        "50": {
+          "entityName": "阿拉法特",
+          "entityType": "人名"
+        },
+        "60": {
+          "entityName": "欧洲",
+          "entityType": "地名"
+        },
+        "66": {
+          "entityName": "欧洲",
+          "entityType": "地名"
+        }
+      }
+    }
+  ]
+}
